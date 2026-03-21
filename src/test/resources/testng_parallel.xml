@@ -1,0 +1,11 @@
+<suite name = "sauselab-automation" parallel="tests" thread-count = "3" >
+    <test name = "smoketest">
+    <classes>
+            <class name = "tests.LoginTest">
+            </class>
+    </classes>
+    </test>
+    <listeners>
+        <listener class-name ='Listeners.TestListener'/>
+    </listeners>
+</suite>

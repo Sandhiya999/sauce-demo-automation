@@ -1,0 +1,47 @@
+<suite name = "sauselab-automation" >
+ <!--   <test name = "smoketest">
+        <groups>
+        <classes>
+            <class name = "tests.LoginTest">
+
+            <run>
+                <include name = "smoke"/>
+            </run>
+        </groups>
+            </class>
+        </classes>    </test> -->
+    <listeners>
+        <listener class-name ='Listeners.TestListener'/>
+        <listener class-name='Listeners.RetryListener'/>
+    </listeners>
+    <test name ="regression test">
+
+     <!--   <groups>
+            <run>
+                <include name = "regression"/>
+            </run>
+        </groups> -->
+        <parameter name ="browser" value="chrome"/>
+        <classes>
+            <!--    <class name ="tests.SauceE2eDemo"> -->
+            <class name ="tests.LoginTest">
+
+                    <methods>
+                        <include name = "login"/>
+                        <exclude name = "addToCartTest"/>
+                        <exclude name = "removeFromCartTest"/>
+                        <exclude name ="verifyCartTest"/>
+                        <exclude name ="checkoutTest"/>
+                        <exclude name ="checkoutPreviewTest"/>
+                        <exclude name ="placeOrderTest"/>
+                        <exclude name = "invalidLogin"/>
+                        <exclide name = "removeFromCartPage"/>
+
+                    </methods> -->
+            </class>
+        </classes>
+    </test>
+</suite>
+
+
+
