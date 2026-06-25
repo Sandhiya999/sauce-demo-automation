@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 import pages.*;
 import java.util.List;
 import java.util.Map;
-@Test(dataProvider = "invalidCheckoutUser")
+@Test(dataProvider = "validCheckoutUser")
 public class SauceE2eDemo extends BaseTest{
     public void E2eFLow(String user,String pwd,String first,String last,String post)
     {

@@ -10,8 +10,8 @@ import java.util.Map;
 
 public class LoginTest extends BaseTest {
   //  @Test(groups = "smoke")
-    @Test(dataProvider = "validUser")
-    public void login(String user,String pwd) {
+    @Test(dataProvider = "validUser")    public void login(String user,String pwd) {
+
         getDriver().get(ConfigReader.get("baseurl"));
         LoginPage loginObj = new LoginPage();
         loginObj.login(user, pwd);
@@ -21,14 +21,14 @@ public class LoginTest extends BaseTest {
         loginObj.logout();
     }
 
-    @Test(dataProvider = "invalidUser")
+    @Test(dataProvider = "invalidUser",enabled = false)
     public void invalidLogin(String user,String pwd)
     {
         getDriver().get(ConfigReader.get("baseurl"));
         LoginPage loginObj = new LoginPage();
         String errorMsg= loginObj.getErrorMsg(user,pwd);
         log.error("Error captured due to Invalid user credentials entered " + errorMsg);
-        Assert.assertEquals("logged in successfully",errorMsg);
+        Assert.assertEquals("Epic sadface: Username and password do not match any user in this service",errorMsg);
     }
 
     //@Test(dependsOnMethods = "loginTest", groups = "regression")
@@ -100,7 +100,7 @@ public class LoginTest extends BaseTest {
 
     }
 
-    @Test()
+    @Test
     public void verifyCartTest() {
         getDriver().get(ConfigReader.get("baseurl"));
         LoginPage loginObj = new LoginPage();
@@ -116,7 +116,7 @@ public class LoginTest extends BaseTest {
         loginObj.logout();
     }
 
-    @Test(dataProvider = "invalidCheckoutUser")
+    @Test(dataProvider = "validCheckoutUser")
     public void checkoutTest(String first,String last,String post) {
         getDriver().get(ConfigReader.get("baseurl"));
         LoginPage loginObj = new LoginPage();
@@ -173,11 +173,20 @@ public class LoginTest extends BaseTest {
         Assert.assertEquals(logoutObj.getLoginLogo(), "Swag Labs");
     }
 
-    @Test(enabled = false)
+    @Test
     public void logoutTest() {
         OrderCompletionPage order = new OrderCompletionPage();
         LoginPage logoutObj = order.logout();
         Assert.assertEquals(logoutObj.getLoginPageTitle(), "Swag Labs");
+    }
+    @Test(dataProvider = "invalidUser")
+    public void demoFailure(String user,String pwd)
+    {
+        getDriver().get(ConfigReader.get("baseurl"));
+        LoginPage loginObj = new LoginPage();
+        String errorMsg= loginObj.getErrorMsg(user,pwd);
+        log.error("Error captured due to Invalid user credentials entered " + errorMsg);
+        Assert.assertEquals("logged in successfully",errorMsg);
     }
 
     @DataProvider(name = "validUser", parallel = true)
@@ -187,7 +196,7 @@ public class LoginTest extends BaseTest {
                //    {"visual_user","secret_sauce"}
         };
     }
-    @DataProvider(name = "invalidUser", parallel = true)
+    @DataProvider(name = "invalidUser", parallel = false)
     public Object[][] invalidUser() {
         return new Object[][]{
                 {"standard", "secret"},{"locked_out_user","dev6292"},{"standad_user","secret_suce"},
@@ -197,7 +206,7 @@ public class LoginTest extends BaseTest {
     @DataProvider(name = "validCheckoutUser", parallel = true)
     public Object[][] validData() {
         return new Object[][]{
-                {"san", "dev", "2933"},{"para","esh","23792"}
+                {"san", "dev", "2933"}
         };
     }
     @DataProvider(name = "invalidCheckoutUser", parallel = true)

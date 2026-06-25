@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-06-25T22:37:30 IST" name="sauselab-automation" finished-at="2026-06-25T22:37:41 IST" duration-ms="11195">
+    <groups>
+    </groups>
+    <test started-at="2026-06-25T22:37:30 IST" name="regression test" finished-at="2026-06-25T22:37:41 IST" duration-ms="11195">
+      <class name="tests.SauceE2eDemo">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:tests.SauceE2eDemo@741b3bc3]" started-at="2026-06-25T22:37:30 IST" name="setUp" finished-at="2026-06-25T22:37:34 IST" duration-ms="4600" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="E2eFLow(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:tests.SauceE2eDemo@741b3bc3]" started-at="2026-06-25T22:37:34 IST" name="E2eFLow" data-provider="validCheckoutUser" finished-at="2026-06-25T22:37:41 IST" duration-ms="6163" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[standard_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[san]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[dev]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[5345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- E2eFLow -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.SauceE2eDemo@741b3bc3]" started-at="2026-06-25T22:37:41 IST" name="tearDown" finished-at="2026-06-25T22:37:41 IST" duration-ms="366" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.SauceE2eDemo -->
+    </test> <!-- regression test -->
+  </suite> <!-- sauselab-automation -->
+</testng-results>
