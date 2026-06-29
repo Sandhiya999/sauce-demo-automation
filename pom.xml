@@ -82,7 +82,7 @@
                 <configuration>
                     <suiteXmlFiles>
                         <suiteXmlFile>
-                            src/test/resources/testng_E2E.xml
+                            src/test/resources/testng.xml
                         </suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>

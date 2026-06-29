@@ -1,7 +1,7 @@
 <suite name = "sauselab-automation" >
     <test name = "smoketest">
     <classes>
-            <class name = "tests.LoginTest">
+            <class name = "tests.SauceDemoE2ETest">
             </class>
     </classes>
     </test>

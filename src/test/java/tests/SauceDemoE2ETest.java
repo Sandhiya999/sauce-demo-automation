@@ -8,7 +8,7 @@ import pages.*;
 import java.util.List;
 import java.util.Map;
 
-public class LoginTest extends BaseTest {
+public class SauceDemoE2ETest extends BaseTest {
   //  @Test(groups = "smoke")
     @Test(dataProvider = "validUser")    public void login(String user,String pwd) {
 

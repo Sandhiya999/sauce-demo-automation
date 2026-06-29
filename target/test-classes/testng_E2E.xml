@@ -1,0 +1,18 @@
+<suite name = "sauselab-automation" >
+
+    <listeners>
+        <listener class-name ='Listeners.TestListener'/>
+        <listener class-name='Listeners.RetryListener'/>
+    </listeners>
+    <test name ="regression test">
+
+        <parameter name ="browser" value="chrome"/>
+        <classes>
+            <class name ="tests.SauceE2eDemo">
+            </class>
+        </classes>
+    </test>
+</suite>
+
+
+

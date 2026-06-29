@@ -2,7 +2,7 @@
  <!--   <test name = "smoketest">
         <groups>
         <classes>
-            <class name = "tests.LoginTest">
+            <class name = "tests.SauceDemoE2ETest">
 
             <run>
                 <include name = "smoke"/>
@@ -23,22 +23,21 @@
         </groups> -->
         <parameter name ="browser" value="chrome"/>
         <classes>
-             <class name ="tests.SauceE2eDemo">
-            <!--
-                <class name ="tests.LoginTest">
+            <!-- <class name ="tests.SauceE2eDemo"> -->
+
+                <class name ="tests.SauceDemoE2ETest">
 
                      <methods>
                          <include name = "login"/>
-                         <exclude name = "addToCartTest"/>
-                         <exclude name = "removeFromCartTest"/>
-                         <exclude name ="verifyCartTest"/>
-                         <exclude name ="checkoutTest"/>
-                         <exclude name ="checkoutPreviewTest"/>
-                         <exclude name ="placeOrderTest"/>
-                         <exclude name = "invalidLogin"/>
-                         <exclide name = "removeFromCartPage"/>
+                         <include name = "addToCartTest"/>
+                         <include name = "removeFromCartTest"/>
+                         <include name = "removeFromCartPage"/>
+                         <include name ="verifyCartTest"/>
+                         <include name ="checkoutTest"/>
+                         <include name ="checkoutPreviewTest"/>
+                         <include name ="placeOrderTest"/>
 
-                     </methods> -->
+                     </methods>
             </class>
         </classes>
     </test>

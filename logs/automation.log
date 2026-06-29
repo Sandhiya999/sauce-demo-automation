@@ -2663,3 +2663,1001 @@
 2026-06-25 22:37:40 INFO  BaseTest - Clicking Element: By.id: logout_sidebar_link
 2026-06-25 22:37:41 INFO  BaseTest - Logged Out Successfully
 2026-06-25 22:37:41 INFO  BaseTest - browser closed successfully
+2026-06-29 20:27:45 INFO  BaseTest - Launching Browser
+2026-06-29 20:27:55 INFO  BaseTest - Browser launched successfully
+2026-06-29 20:27:58 INFO  BaseTest - Typing standard_userinto element: By.id: user-name
+2026-06-29 20:27:58 INFO  BaseTest - Typing secret_sauceinto element: By.id: password
+2026-06-29 20:27:58 INFO  BaseTest - Clicking Element: By.cssSelector: input#login-button
+2026-06-29 20:27:58 INFO  BaseTest - Navigating to login page
+2026-06-29 20:27:59 INFO  BaseTest - Clicking Element: By.cssSelector: button#react-burger-menu-btn
+2026-06-29 20:27:59 INFO  BaseTest - Clicking Element: By.id: logout_sidebar_link
+2026-06-29 20:28:00 INFO  BaseTest - Logged Out Successfully
+2026-06-29 20:28:00 INFO  BaseTest - browser closed successfully
+2026-06-29 20:28:00 INFO  BaseTest - Launching Browser
+2026-06-29 20:28:03 INFO  BaseTest - Browser launched successfully
+2026-06-29 20:28:04 INFO  BaseTest - Typing standard_userinto element: By.id: user-name
+2026-06-29 20:28:04 INFO  BaseTest - Typing secret_sauceinto element: By.id: password
+2026-06-29 20:28:04 INFO  BaseTest - Clicking Element: By.cssSelector: input#login-button
+2026-06-29 20:28:04 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Backpack')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 20:28:04 INFO  BaseTest - Adding product to cart: Sauce Labs Backpack
+2026-06-29 20:28:05 INFO  BaseTest - Count of Items added in cart is: 1
+2026-06-29 20:28:05 INFO  BaseTest - Clicking Element: By.cssSelector: button#react-burger-menu-btn
+2026-06-29 20:28:05 INFO  BaseTest - Clicking Element: By.id: logout_sidebar_link
+2026-06-29 20:28:06 INFO  BaseTest - Logged Out Successfully
+2026-06-29 20:28:06 INFO  BaseTest - browser closed successfully
+2026-06-29 20:28:06 INFO  BaseTest - Launching Browser
+2026-06-29 20:28:08 INFO  BaseTest - Browser launched successfully
+2026-06-29 20:28:08 INFO  BaseTest - Typing standard_userinto element: By.id: user-name
+2026-06-29 20:28:09 INFO  BaseTest - Typing secret_sauceinto element: By.id: password
+2026-06-29 20:28:09 INFO  BaseTest - Clicking Element: By.cssSelector: input#login-button
+2026-06-29 20:28:09 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Backpack')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 20:28:09 INFO  BaseTest - Adding product to cart: Sauce Labs Backpack
+2026-06-29 20:28:09 INFO  BaseTest - Clicking Element: By.id: remove-sauce-labs-backpack
+2026-06-29 20:28:09 INFO  BaseTest - Product Sauce Labs Backpack has been removed from the cart
+2026-06-29 20:28:10 INFO  BaseTest - Items count in cart currently0
+2026-06-29 20:28:10 INFO  BaseTest - Clicking Element: By.cssSelector: button#react-burger-menu-btn
+2026-06-29 20:28:10 INFO  BaseTest - Clicking Element: By.id: logout_sidebar_link
+2026-06-29 20:28:11 INFO  BaseTest - Logged Out Successfully
+2026-06-29 20:28:11 INFO  BaseTest - browser closed successfully
+2026-06-29 20:28:11 INFO  BaseTest - Launching Browser
+2026-06-29 20:28:12 INFO  BaseTest - Browser launched successfully
+2026-06-29 20:28:14 INFO  BaseTest - Typing standard_userinto element: By.id: user-name
+2026-06-29 20:28:14 INFO  BaseTest - Typing secret_sauceinto element: By.id: password
+2026-06-29 20:28:14 INFO  BaseTest - Clicking Element: By.cssSelector: input#login-button
+2026-06-29 20:28:14 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Backpack')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 20:28:15 INFO  BaseTest - Adding product to cart: Sauce Labs Backpack
+2026-06-29 20:28:15 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Bolt T-Shirt')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 20:28:15 INFO  BaseTest - Adding product to cart: Sauce Labs Bolt T-Shirt
+2026-06-29 20:28:15 INFO  BaseTest - ElementBy.cssSelector: span[data-test='shopping-cart-badge']present in DOM
+2026-06-29 20:28:15 INFO  BaseTest - Clicking Element: By.cssSelector: span[data-test='shopping-cart-badge']
+2026-06-29 20:28:15 INFO  BaseTest - Navigating to Cart page
+2026-06-29 20:28:15 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Backpack')]/ancestor::div[contains(@class,'cart_item_label')]//button
+2026-06-29 20:28:15 INFO  BaseTest - Removing product from cart: Sauce Labs Backpack
+2026-06-29 20:28:15 INFO  BaseTest - Items count in cart currently1
+2026-06-29 20:28:15 INFO  BaseTest - cart count after removal1
+2026-06-29 20:28:15 INFO  BaseTest - Clicking Element: By.cssSelector: button#react-burger-menu-btn
+2026-06-29 20:28:15 INFO  BaseTest - Clicking Element: By.id: logout_sidebar_link
+2026-06-29 20:28:16 INFO  BaseTest - Logged Out Successfully
+2026-06-29 20:28:16 INFO  BaseTest - browser closed successfully
+2026-06-29 20:28:16 INFO  BaseTest - Launching Browser
+2026-06-29 20:28:18 INFO  BaseTest - Browser launched successfully
+2026-06-29 20:28:22 INFO  BaseTest - Typing standard_userinto element: By.id: user-name
+2026-06-29 20:28:22 INFO  BaseTest - Typing secret_sauceinto element: By.id: password
+2026-06-29 20:28:22 INFO  BaseTest - Clicking Element: By.cssSelector: input#login-button
+2026-06-29 20:28:23 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Backpack')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 20:28:23 INFO  BaseTest - Adding product to cart: Sauce Labs Backpack
+2026-06-29 20:28:23 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Bolt T-Shirt')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 20:28:23 INFO  BaseTest - Adding product to cart: Sauce Labs Bolt T-Shirt
+2026-06-29 20:28:23 INFO  BaseTest - ElementBy.cssSelector: span[data-test='shopping-cart-badge']present in DOM
+2026-06-29 20:28:23 INFO  BaseTest - Clicking Element: By.cssSelector: span[data-test='shopping-cart-badge']
+2026-06-29 20:28:23 INFO  BaseTest - Navigating to Cart page
+2026-06-29 20:28:23 INFO  BaseTest - Cart items verified
+2026-06-29 20:28:23 INFO  BaseTest - Clicking Element: By.cssSelector: button#react-burger-menu-btn
+2026-06-29 20:28:23 INFO  BaseTest - Clicking Element: By.id: logout_sidebar_link
+2026-06-29 20:28:24 INFO  BaseTest - Logged Out Successfully
+2026-06-29 20:28:24 INFO  BaseTest - browser closed successfully
+2026-06-29 20:28:24 INFO  BaseTest - Launching Browser
+2026-06-29 20:28:26 INFO  BaseTest - Browser launched successfully
+2026-06-29 20:28:28 INFO  BaseTest - Typing standard_userinto element: By.id: user-name
+2026-06-29 20:28:28 INFO  BaseTest - Typing secret_sauceinto element: By.id: password
+2026-06-29 20:28:28 INFO  BaseTest - Clicking Element: By.cssSelector: input#login-button
+2026-06-29 20:28:29 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Backpack')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 20:28:29 INFO  BaseTest - Adding product to cart: Sauce Labs Backpack
+2026-06-29 20:28:29 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Bolt T-Shirt')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 20:28:29 INFO  BaseTest - Adding product to cart: Sauce Labs Bolt T-Shirt
+2026-06-29 20:28:29 INFO  BaseTest - ElementBy.cssSelector: span[data-test='shopping-cart-badge']present in DOM
+2026-06-29 20:28:29 INFO  BaseTest - Clicking Element: By.cssSelector: span[data-test='shopping-cart-badge']
+2026-06-29 20:28:29 INFO  BaseTest - Navigating to Cart page
+2026-06-29 20:28:29 INFO  BaseTest - Clicking Element: By.id: checkout
+2026-06-29 20:28:29 INFO  BaseTest - Navigating to Checkout User Info page
+2026-06-29 20:28:29 INFO  BaseTest - Typing saninto element: By.id: first-name
+2026-06-29 20:28:29 INFO  BaseTest - Typing devinto element: By.id: last-name
+2026-06-29 20:28:30 INFO  BaseTest - Typing 2933into element: By.id: postal-code
+2026-06-29 20:28:30 INFO  BaseTest - Filling user info: san dev, postal code: 2933
+2026-06-29 20:28:30 INFO  BaseTest - Clicking Element: By.id: continue
+2026-06-29 20:28:30 INFO  BaseTest - browser closed successfully
+2026-06-29 20:28:30 INFO  BaseTest - Launching Browser
+2026-06-29 20:28:32 INFO  BaseTest - Browser launched successfully
+2026-06-29 20:28:32 INFO  BaseTest - Typing standard_userinto element: By.id: user-name
+2026-06-29 20:28:33 INFO  BaseTest - Typing secret_sauceinto element: By.id: password
+2026-06-29 20:28:33 INFO  BaseTest - Clicking Element: By.cssSelector: input#login-button
+2026-06-29 20:28:33 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Backpack')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 20:28:33 INFO  BaseTest - Adding product to cart: Sauce Labs Backpack
+2026-06-29 20:28:33 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Bolt T-Shirt')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 20:28:33 INFO  BaseTest - Adding product to cart: Sauce Labs Bolt T-Shirt
+2026-06-29 20:28:33 INFO  BaseTest - ElementBy.cssSelector: span[data-test='shopping-cart-badge']present in DOM
+2026-06-29 20:28:33 INFO  BaseTest - Clicking Element: By.cssSelector: span[data-test='shopping-cart-badge']
+2026-06-29 20:28:34 INFO  BaseTest - Navigating to Cart page
+2026-06-29 20:28:34 INFO  BaseTest - Clicking Element: By.id: checkout
+2026-06-29 20:28:34 INFO  BaseTest - Navigating to Checkout User Info page
+2026-06-29 20:28:34 INFO  BaseTest - Typing saninto element: By.id: first-name
+2026-06-29 20:28:34 INFO  BaseTest - Typing devinto element: By.id: last-name
+2026-06-29 20:28:34 INFO  BaseTest - Typing 2933into element: By.id: postal-code
+2026-06-29 20:28:34 INFO  BaseTest - Filling user info: san dev, postal code: 2933
+2026-06-29 20:28:34 INFO  BaseTest - Clicking Element: By.id: continue
+2026-06-29 20:28:34 INFO  BaseTest - ElementBy.cssSelector: span[data-test='title']present in DOM
+2026-06-29 20:28:34 INFO  BaseTest - Navigating to checkout preview page
+2026-06-29 20:28:35 INFO  BaseTest - Verifying cart items
+2026-06-29 20:28:35 INFO  BaseTest - Verifying checkout totals
+2026-06-29 20:28:35 INFO  BaseTest - Clicking Element: By.cssSelector: button#react-burger-menu-btn
+2026-06-29 20:28:35 INFO  BaseTest - Clicking Element: By.id: logout_sidebar_link
+2026-06-29 20:28:36 INFO  BaseTest - Logged Out Successfully
+2026-06-29 20:28:36 INFO  BaseTest - browser closed successfully
+2026-06-29 20:28:36 INFO  BaseTest - Launching Browser
+2026-06-29 20:28:38 INFO  BaseTest - Browser launched successfully
+2026-06-29 20:28:40 INFO  BaseTest - Typing standard_userinto element: By.id: user-name
+2026-06-29 20:28:40 INFO  BaseTest - Typing secret_sauceinto element: By.id: password
+2026-06-29 20:28:40 INFO  BaseTest - Clicking Element: By.cssSelector: input#login-button
+2026-06-29 20:28:40 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Backpack')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 20:28:40 INFO  BaseTest - Adding product to cart: Sauce Labs Backpack
+2026-06-29 20:28:41 INFO  BaseTest - ElementBy.cssSelector: span[data-test='shopping-cart-badge']present in DOM
+2026-06-29 20:28:41 INFO  BaseTest - Clicking Element: By.cssSelector: span[data-test='shopping-cart-badge']
+2026-06-29 20:28:41 INFO  BaseTest - Navigating to Cart page
+2026-06-29 20:28:41 INFO  BaseTest - Clicking Element: By.id: checkout
+2026-06-29 20:28:41 INFO  BaseTest - Navigating to Checkout User Info page
+2026-06-29 20:28:41 INFO  BaseTest - Typing saninto element: By.id: first-name
+2026-06-29 20:28:41 INFO  BaseTest - Typing devinto element: By.id: last-name
+2026-06-29 20:28:41 INFO  BaseTest - Typing 2933into element: By.id: postal-code
+2026-06-29 20:28:41 INFO  BaseTest - Filling user info: san dev, postal code: 2933
+2026-06-29 20:28:41 INFO  BaseTest - Clicking Element: By.id: continue
+2026-06-29 20:28:41 INFO  BaseTest - ElementBy.cssSelector: span[data-test='title']present in DOM
+2026-06-29 20:28:41 INFO  BaseTest - Navigating to checkout preview page
+2026-06-29 20:28:41 INFO  BaseTest - Clicking Element: By.id: finish
+2026-06-29 20:28:42 INFO  BaseTest - Placing order by clicking finish button
+2026-06-29 20:28:42 INFO  BaseTest - Navigating to Order Completion Page
+2026-06-29 20:28:42 INFO  BaseTest - Please wait Fetching your Order Completion Message
+2026-06-29 20:28:42 INFO  BaseTest - Your order has been dispatched, and will arrive just as fast as the pony can get there!
+2026-06-29 20:28:42 INFO  BaseTest - Please wait Fetching your Order Completion Message
+2026-06-29 20:28:42 INFO  BaseTest - Your order has been dispatched, and will arrive just as fast as the pony can get there!
+2026-06-29 20:28:42 INFO  BaseTest - Fetching Thankyou message
+2026-06-29 20:28:42 INFO  BaseTest - Fetching Thankyou message
+2026-06-29 20:28:42 INFO  BaseTest - Clicking Element: By.cssSelector: button#react-burger-menu-btn
+2026-06-29 20:28:42 INFO  BaseTest - Clicking Element: By.id: logout_sidebar_link
+2026-06-29 20:28:43 INFO  BaseTest - Logged Out Successfully
+2026-06-29 20:28:43 INFO  BaseTest - browser closed successfully
+2026-06-29 20:28:43 INFO  BaseTest - Launching Browser
+2026-06-29 20:28:45 INFO  BaseTest - Browser launched successfully
+2026-06-29 20:28:45 INFO  BaseTest - Clicking Element: By.cssSelector: button#react-burger-menu-btn
+2026-06-29 20:29:05 INFO  BaseTest - browser closed successfully
+2026-06-29 20:29:05 INFO  BaseTest - Launching Browser
+2026-06-29 20:29:07 INFO  BaseTest - Browser launched successfully
+2026-06-29 20:29:07 INFO  BaseTest - Clicking Element: By.cssSelector: button#react-burger-menu-btn
+2026-06-29 20:32:58 INFO  BaseTest - Launching Browser
+2026-06-29 20:33:03 INFO  BaseTest - Browser launched successfully
+2026-06-29 20:33:06 INFO  BaseTest - Typing standard_userinto element: By.id: user-name
+2026-06-29 20:33:07 INFO  BaseTest - Typing secret_sauceinto element: By.id: password
+2026-06-29 20:33:07 INFO  BaseTest - Clicking Element: By.cssSelector: input#login-button
+2026-06-29 20:33:07 INFO  BaseTest - Navigating to login page
+2026-06-29 20:33:07 INFO  BaseTest - Clicking Element: By.cssSelector: button#react-burger-menu-btn
+2026-06-29 20:33:07 INFO  BaseTest - Clicking Element: By.id: logout_sidebar_link
+2026-06-29 20:33:08 INFO  BaseTest - Logged Out Successfully
+2026-06-29 20:33:09 INFO  BaseTest - browser closed successfully
+2026-06-29 20:33:09 INFO  BaseTest - Launching Browser
+2026-06-29 20:33:10 INFO  BaseTest - Browser launched successfully
+2026-06-29 20:33:14 INFO  BaseTest - Typing standard_userinto element: By.id: user-name
+2026-06-29 20:33:14 INFO  BaseTest - Typing secret_sauceinto element: By.id: password
+2026-06-29 20:33:14 INFO  BaseTest - Clicking Element: By.cssSelector: input#login-button
+2026-06-29 20:33:15 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Backpack')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 20:33:15 INFO  BaseTest - Adding product to cart: Sauce Labs Backpack
+2026-06-29 20:33:15 INFO  BaseTest - Count of Items added in cart is: 1
+2026-06-29 20:33:15 INFO  BaseTest - Clicking Element: By.cssSelector: button#react-burger-menu-btn
+2026-06-29 20:33:15 INFO  BaseTest - Clicking Element: By.id: logout_sidebar_link
+2026-06-29 20:33:16 INFO  BaseTest - Logged Out Successfully
+2026-06-29 20:33:16 INFO  BaseTest - browser closed successfully
+2026-06-29 20:33:16 INFO  BaseTest - Launching Browser
+2026-06-29 20:33:18 INFO  BaseTest - Browser launched successfully
+2026-06-29 20:33:21 INFO  BaseTest - Typing standard_userinto element: By.id: user-name
+2026-06-29 20:33:21 INFO  BaseTest - Typing secret_sauceinto element: By.id: password
+2026-06-29 20:33:21 INFO  BaseTest - Clicking Element: By.cssSelector: input#login-button
+2026-06-29 20:33:21 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Backpack')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 20:33:21 INFO  BaseTest - Adding product to cart: Sauce Labs Backpack
+2026-06-29 20:33:21 INFO  BaseTest - Clicking Element: By.id: remove-sauce-labs-backpack
+2026-06-29 20:33:22 INFO  BaseTest - Product Sauce Labs Backpack has been removed from the cart
+2026-06-29 20:33:22 INFO  BaseTest - Items count in cart currently0
+2026-06-29 20:33:22 INFO  BaseTest - Clicking Element: By.cssSelector: button#react-burger-menu-btn
+2026-06-29 20:33:22 INFO  BaseTest - Clicking Element: By.id: logout_sidebar_link
+2026-06-29 20:33:23 INFO  BaseTest - Logged Out Successfully
+2026-06-29 20:33:23 INFO  BaseTest - browser closed successfully
+2026-06-29 20:33:23 INFO  BaseTest - Launching Browser
+2026-06-29 20:33:24 INFO  BaseTest - Browser launched successfully
+2026-06-29 20:33:26 INFO  BaseTest - Typing standard_userinto element: By.id: user-name
+2026-06-29 20:33:27 INFO  BaseTest - Typing secret_sauceinto element: By.id: password
+2026-06-29 20:33:27 INFO  BaseTest - Clicking Element: By.cssSelector: input#login-button
+2026-06-29 20:33:27 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Backpack')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 20:33:27 INFO  BaseTest - Adding product to cart: Sauce Labs Backpack
+2026-06-29 20:33:27 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Bolt T-Shirt')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 20:33:27 INFO  BaseTest - Adding product to cart: Sauce Labs Bolt T-Shirt
+2026-06-29 20:33:27 INFO  BaseTest - ElementBy.cssSelector: span[data-test='shopping-cart-badge']present in DOM
+2026-06-29 20:33:27 INFO  BaseTest - Clicking Element: By.cssSelector: span[data-test='shopping-cart-badge']
+2026-06-29 20:33:28 INFO  BaseTest - Navigating to Cart page
+2026-06-29 20:33:28 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Backpack')]/ancestor::div[contains(@class,'cart_item_label')]//button
+2026-06-29 20:33:28 INFO  BaseTest - Removing product from cart: Sauce Labs Backpack
+2026-06-29 20:33:28 INFO  BaseTest - Items count in cart currently1
+2026-06-29 20:33:28 INFO  BaseTest - cart count after removal1
+2026-06-29 20:33:28 INFO  BaseTest - Clicking Element: By.cssSelector: button#react-burger-menu-btn
+2026-06-29 20:33:28 INFO  BaseTest - Clicking Element: By.id: logout_sidebar_link
+2026-06-29 20:33:29 INFO  BaseTest - Logged Out Successfully
+2026-06-29 20:33:29 INFO  BaseTest - browser closed successfully
+2026-06-29 20:33:29 INFO  BaseTest - Launching Browser
+2026-06-29 20:33:31 INFO  BaseTest - Browser launched successfully
+2026-06-29 20:33:32 INFO  BaseTest - Typing standard_userinto element: By.id: user-name
+2026-06-29 20:33:32 INFO  BaseTest - Typing secret_sauceinto element: By.id: password
+2026-06-29 20:33:32 INFO  BaseTest - Clicking Element: By.cssSelector: input#login-button
+2026-06-29 20:33:33 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Backpack')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 20:33:33 INFO  BaseTest - Adding product to cart: Sauce Labs Backpack
+2026-06-29 20:33:33 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Bolt T-Shirt')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 20:33:33 INFO  BaseTest - Adding product to cart: Sauce Labs Bolt T-Shirt
+2026-06-29 20:33:33 INFO  BaseTest - ElementBy.cssSelector: span[data-test='shopping-cart-badge']present in DOM
+2026-06-29 20:33:33 INFO  BaseTest - Clicking Element: By.cssSelector: span[data-test='shopping-cart-badge']
+2026-06-29 20:33:33 INFO  BaseTest - Navigating to Cart page
+2026-06-29 20:33:33 INFO  BaseTest - Cart items verified
+2026-06-29 20:33:33 INFO  BaseTest - Clicking Element: By.cssSelector: button#react-burger-menu-btn
+2026-06-29 20:33:33 INFO  BaseTest - Clicking Element: By.id: logout_sidebar_link
+2026-06-29 20:33:34 INFO  BaseTest - Logged Out Successfully
+2026-06-29 20:33:35 INFO  BaseTest - browser closed successfully
+2026-06-29 20:33:35 INFO  BaseTest - Launching Browser
+2026-06-29 20:33:36 INFO  BaseTest - Browser launched successfully
+2026-06-29 20:33:39 INFO  BaseTest - Typing standard_userinto element: By.id: user-name
+2026-06-29 20:33:39 INFO  BaseTest - Typing secret_sauceinto element: By.id: password
+2026-06-29 20:33:39 INFO  BaseTest - Clicking Element: By.cssSelector: input#login-button
+2026-06-29 20:33:39 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Backpack')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 20:33:39 INFO  BaseTest - Adding product to cart: Sauce Labs Backpack
+2026-06-29 20:33:39 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Bolt T-Shirt')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 20:33:40 INFO  BaseTest - Adding product to cart: Sauce Labs Bolt T-Shirt
+2026-06-29 20:33:40 INFO  BaseTest - ElementBy.cssSelector: span[data-test='shopping-cart-badge']present in DOM
+2026-06-29 20:33:40 INFO  BaseTest - Clicking Element: By.cssSelector: span[data-test='shopping-cart-badge']
+2026-06-29 20:33:40 INFO  BaseTest - Navigating to Cart page
+2026-06-29 20:33:40 INFO  BaseTest - Clicking Element: By.id: checkout
+2026-06-29 20:33:40 INFO  BaseTest - Navigating to Checkout User Info page
+2026-06-29 20:33:40 INFO  BaseTest - Typing saninto element: By.id: first-name
+2026-06-29 20:33:40 INFO  BaseTest - Typing devinto element: By.id: last-name
+2026-06-29 20:33:40 INFO  BaseTest - Typing 2933into element: By.id: postal-code
+2026-06-29 20:33:40 INFO  BaseTest - Filling user info: san dev, postal code: 2933
+2026-06-29 20:33:40 INFO  BaseTest - Clicking Element: By.id: continue
+2026-06-29 20:33:41 INFO  BaseTest - browser closed successfully
+2026-06-29 20:33:41 INFO  BaseTest - Launching Browser
+2026-06-29 20:33:42 INFO  BaseTest - Browser launched successfully
+2026-06-29 20:33:44 INFO  BaseTest - Typing standard_userinto element: By.id: user-name
+2026-06-29 20:33:44 INFO  BaseTest - Typing secret_sauceinto element: By.id: password
+2026-06-29 20:33:44 INFO  BaseTest - Clicking Element: By.cssSelector: input#login-button
+2026-06-29 20:33:45 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Backpack')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 20:33:45 INFO  BaseTest - Adding product to cart: Sauce Labs Backpack
+2026-06-29 20:33:45 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Bolt T-Shirt')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 20:33:45 INFO  BaseTest - Adding product to cart: Sauce Labs Bolt T-Shirt
+2026-06-29 20:33:45 INFO  BaseTest - ElementBy.cssSelector: span[data-test='shopping-cart-badge']present in DOM
+2026-06-29 20:33:45 INFO  BaseTest - Clicking Element: By.cssSelector: span[data-test='shopping-cart-badge']
+2026-06-29 20:33:45 INFO  BaseTest - Navigating to Cart page
+2026-06-29 20:33:45 INFO  BaseTest - Clicking Element: By.id: checkout
+2026-06-29 20:33:45 INFO  BaseTest - Navigating to Checkout User Info page
+2026-06-29 20:33:45 INFO  BaseTest - Typing saninto element: By.id: first-name
+2026-06-29 20:33:45 INFO  BaseTest - Typing devinto element: By.id: last-name
+2026-06-29 20:33:45 INFO  BaseTest - Typing 2933into element: By.id: postal-code
+2026-06-29 20:33:46 INFO  BaseTest - Filling user info: san dev, postal code: 2933
+2026-06-29 20:33:46 INFO  BaseTest - Clicking Element: By.id: continue
+2026-06-29 20:33:46 INFO  BaseTest - ElementBy.cssSelector: span[data-test='title']present in DOM
+2026-06-29 20:33:46 INFO  BaseTest - Navigating to checkout preview page
+2026-06-29 20:33:46 INFO  BaseTest - Verifying cart items
+2026-06-29 20:33:46 INFO  BaseTest - Verifying checkout totals
+2026-06-29 20:33:46 INFO  BaseTest - Clicking Element: By.cssSelector: button#react-burger-menu-btn
+2026-06-29 20:33:46 INFO  BaseTest - Clicking Element: By.id: logout_sidebar_link
+2026-06-29 20:34:08 INFO  BaseTest - browser closed successfully
+2026-06-29 20:34:08 INFO  BaseTest - Launching Browser
+2026-06-29 20:34:09 INFO  BaseTest - Browser launched successfully
+2026-06-29 20:34:12 INFO  BaseTest - Typing standard_userinto element: By.id: user-name
+2026-06-29 20:34:12 INFO  BaseTest - Typing secret_sauceinto element: By.id: password
+2026-06-29 20:34:12 INFO  BaseTest - Clicking Element: By.cssSelector: input#login-button
+2026-06-29 20:34:12 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Backpack')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 20:34:12 INFO  BaseTest - Adding product to cart: Sauce Labs Backpack
+2026-06-29 20:34:12 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Bolt T-Shirt')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 20:34:12 INFO  BaseTest - Adding product to cart: Sauce Labs Bolt T-Shirt
+2026-06-29 20:34:12 INFO  BaseTest - ElementBy.cssSelector: span[data-test='shopping-cart-badge']present in DOM
+2026-06-29 20:34:12 INFO  BaseTest - Clicking Element: By.cssSelector: span[data-test='shopping-cart-badge']
+2026-06-29 20:34:13 INFO  BaseTest - Navigating to Cart page
+2026-06-29 20:34:13 INFO  BaseTest - Clicking Element: By.id: checkout
+2026-06-29 20:34:13 INFO  BaseTest - Navigating to Checkout User Info page
+2026-06-29 20:34:13 INFO  BaseTest - Typing saninto element: By.id: first-name
+2026-06-29 20:34:13 INFO  BaseTest - Typing devinto element: By.id: last-name
+2026-06-29 20:34:13 INFO  BaseTest - Typing 2933into element: By.id: postal-code
+2026-06-29 20:34:13 INFO  BaseTest - Filling user info: san dev, postal code: 2933
+2026-06-29 20:34:13 INFO  BaseTest - Clicking Element: By.id: continue
+2026-06-29 20:34:14 INFO  BaseTest - ElementBy.cssSelector: span[data-test='title']present in DOM
+2026-06-29 20:34:14 INFO  BaseTest - Navigating to checkout preview page
+2026-06-29 20:34:14 INFO  BaseTest - Verifying cart items
+2026-06-29 20:34:14 INFO  BaseTest - Verifying checkout totals
+2026-06-29 20:34:14 INFO  BaseTest - Clicking Element: By.cssSelector: button#react-burger-menu-btn
+2026-06-29 20:34:14 INFO  BaseTest - Clicking Element: By.id: logout_sidebar_link
+2026-06-29 20:34:15 INFO  BaseTest - Logged Out Successfully
+2026-06-29 20:34:15 INFO  BaseTest - browser closed successfully
+2026-06-29 20:34:15 INFO  BaseTest - Launching Browser
+2026-06-29 20:34:18 INFO  BaseTest - Browser launched successfully
+2026-06-29 20:34:20 INFO  BaseTest - Typing standard_userinto element: By.id: user-name
+2026-06-29 20:34:20 INFO  BaseTest - Typing secret_sauceinto element: By.id: password
+2026-06-29 20:34:20 INFO  BaseTest - Clicking Element: By.cssSelector: input#login-button
+2026-06-29 20:34:20 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Backpack')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 20:34:20 INFO  BaseTest - Adding product to cart: Sauce Labs Backpack
+2026-06-29 20:34:20 INFO  BaseTest - ElementBy.cssSelector: span[data-test='shopping-cart-badge']present in DOM
+2026-06-29 20:34:20 INFO  BaseTest - Clicking Element: By.cssSelector: span[data-test='shopping-cart-badge']
+2026-06-29 20:34:20 INFO  BaseTest - Navigating to Cart page
+2026-06-29 20:34:20 INFO  BaseTest - Clicking Element: By.id: checkout
+2026-06-29 20:34:21 INFO  BaseTest - Navigating to Checkout User Info page
+2026-06-29 20:34:21 INFO  BaseTest - Typing saninto element: By.id: first-name
+2026-06-29 20:34:21 INFO  BaseTest - Typing devinto element: By.id: last-name
+2026-06-29 20:34:21 INFO  BaseTest - Typing 2933into element: By.id: postal-code
+2026-06-29 20:34:21 INFO  BaseTest - Filling user info: san dev, postal code: 2933
+2026-06-29 20:34:21 INFO  BaseTest - Clicking Element: By.id: continue
+2026-06-29 20:34:21 INFO  BaseTest - ElementBy.cssSelector: span[data-test='title']present in DOM
+2026-06-29 20:34:21 INFO  BaseTest - Navigating to checkout preview page
+2026-06-29 20:34:21 INFO  BaseTest - Clicking Element: By.id: finish
+2026-06-29 20:34:21 INFO  BaseTest - Placing order by clicking finish button
+2026-06-29 20:34:21 INFO  BaseTest - Navigating to Order Completion Page
+2026-06-29 20:34:21 INFO  BaseTest - Please wait Fetching your Order Completion Message
+2026-06-29 20:34:21 INFO  BaseTest - Your order has been dispatched, and will arrive just as fast as the pony can get there!
+2026-06-29 20:34:21 INFO  BaseTest - Please wait Fetching your Order Completion Message
+2026-06-29 20:34:21 INFO  BaseTest - Your order has been dispatched, and will arrive just as fast as the pony can get there!
+2026-06-29 20:34:21 INFO  BaseTest - Fetching Thankyou message
+2026-06-29 20:34:21 INFO  BaseTest - Fetching Thankyou message
+2026-06-29 20:34:21 INFO  BaseTest - Clicking Element: By.cssSelector: button#react-burger-menu-btn
+2026-06-29 20:34:22 INFO  BaseTest - Clicking Element: By.id: logout_sidebar_link
+2026-06-29 20:34:22 INFO  BaseTest - Logged Out Successfully
+2026-06-29 20:34:23 INFO  BaseTest - browser closed successfully
+2026-06-29 22:57:25 INFO  BaseTest - Launching Browser
+2026-06-29 22:57:34 INFO  BaseTest - Browser launched successfully
+2026-06-29 22:57:37 INFO  BaseTest - Typing standard_userinto element: By.id: user-name
+2026-06-29 22:57:37 INFO  BaseTest - Typing secret_sauceinto element: By.id: password
+2026-06-29 22:57:37 INFO  BaseTest - Clicking Element: By.cssSelector: input#login-button
+2026-06-29 22:57:37 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Backpack')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 22:57:38 INFO  BaseTest - Adding product to cart: Sauce Labs Backpack
+2026-06-29 22:57:38 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Bolt T-Shirt')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 22:57:38 INFO  BaseTest - Adding product to cart: Sauce Labs Bolt T-Shirt
+2026-06-29 22:57:38 INFO  BaseTest - ElementBy.cssSelector: span[data-test='shopping-cart-badge']present in DOM
+2026-06-29 22:57:38 INFO  BaseTest - Clicking Element: By.cssSelector: span[data-test='shopping-cart-badge']
+2026-06-29 22:57:38 INFO  BaseTest - Navigating to Cart page
+2026-06-29 22:57:38 INFO  BaseTest - Clicking Element: By.id: checkout
+2026-06-29 22:57:38 INFO  BaseTest - Navigating to Checkout User Info page
+2026-06-29 22:57:38 INFO  BaseTest - Typing saninto element: By.id: first-name
+2026-06-29 22:57:39 INFO  BaseTest - Typing devinto element: By.id: last-name
+2026-06-29 22:57:39 INFO  BaseTest - Typing 2933into element: By.id: postal-code
+2026-06-29 22:57:39 INFO  BaseTest - Filling user info: san dev, postal code: 2933
+2026-06-29 22:57:39 INFO  BaseTest - Clicking Element: By.id: continue
+2026-06-29 22:57:39 INFO  BaseTest - ElementBy.cssSelector: span[data-test='title']present in DOM
+2026-06-29 22:57:39 INFO  BaseTest - Navigating to checkout preview page
+2026-06-29 22:57:39 INFO  BaseTest - Verifying cart items
+2026-06-29 22:57:40 INFO  BaseTest - Verifying checkout totals
+2026-06-29 22:57:40 INFO  BaseTest - Clicking Element: By.cssSelector: button#react-burger-menu-btn
+2026-06-29 22:57:40 INFO  BaseTest - Clicking Element: By.id: logout_sidebar_link
+2026-06-29 22:57:41 INFO  BaseTest - Logged Out Successfully
+2026-06-29 22:57:55 INFO  BaseTest - browser closed successfully
+2026-06-29 22:59:04 INFO  BaseTest - Launching Browser
+2026-06-29 22:59:09 INFO  BaseTest - Browser launched successfully
+2026-06-29 22:59:11 INFO  BaseTest - Typing standard_userinto element: By.id: user-name
+2026-06-29 22:59:11 INFO  BaseTest - Typing secret_sauceinto element: By.id: password
+2026-06-29 22:59:11 INFO  BaseTest - Clicking Element: By.cssSelector: input#login-button
+2026-06-29 22:59:11 INFO  BaseTest - Navigating to login page
+2026-06-29 22:59:11 INFO  BaseTest - Clicking Element: By.cssSelector: button#react-burger-menu-btn
+2026-06-29 22:59:11 INFO  BaseTest - Clicking Element: By.id: logout_sidebar_link
+2026-06-29 22:59:12 INFO  BaseTest - Logged Out Successfully
+2026-06-29 22:59:13 INFO  BaseTest - browser closed successfully
+2026-06-29 22:59:13 INFO  BaseTest - Launching Browser
+2026-06-29 22:59:14 INFO  BaseTest - Browser launched successfully
+2026-06-29 22:59:16 INFO  BaseTest - Typing standard_userinto element: By.id: user-name
+2026-06-29 22:59:16 INFO  BaseTest - Typing secret_sauceinto element: By.id: password
+2026-06-29 22:59:16 INFO  BaseTest - Clicking Element: By.cssSelector: input#login-button
+2026-06-29 22:59:17 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Backpack')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 22:59:17 INFO  BaseTest - Adding product to cart: Sauce Labs Backpack
+2026-06-29 22:59:17 INFO  BaseTest - Count of Items added in cart is: 1
+2026-06-29 22:59:17 INFO  BaseTest - Clicking Element: By.cssSelector: button#react-burger-menu-btn
+2026-06-29 22:59:17 INFO  BaseTest - Clicking Element: By.id: logout_sidebar_link
+2026-06-29 22:59:18 INFO  BaseTest - Logged Out Successfully
+2026-06-29 22:59:18 INFO  BaseTest - browser closed successfully
+2026-06-29 22:59:18 INFO  BaseTest - Launching Browser
+2026-06-29 22:59:20 INFO  BaseTest - Browser launched successfully
+2026-06-29 22:59:21 INFO  BaseTest - Typing standard_userinto element: By.id: user-name
+2026-06-29 22:59:21 INFO  BaseTest - Typing secret_sauceinto element: By.id: password
+2026-06-29 22:59:21 INFO  BaseTest - Clicking Element: By.cssSelector: input#login-button
+2026-06-29 22:59:22 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Backpack')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 22:59:22 INFO  BaseTest - Adding product to cart: Sauce Labs Backpack
+2026-06-29 22:59:22 INFO  BaseTest - Clicking Element: By.id: remove-sauce-labs-backpack
+2026-06-29 22:59:22 INFO  BaseTest - Product Sauce Labs Backpack has been removed from the cart
+2026-06-29 22:59:22 INFO  BaseTest - Items count in cart currently0
+2026-06-29 22:59:22 INFO  BaseTest - Clicking Element: By.cssSelector: button#react-burger-menu-btn
+2026-06-29 22:59:22 INFO  BaseTest - Clicking Element: By.id: logout_sidebar_link
+2026-06-29 22:59:23 INFO  BaseTest - Logged Out Successfully
+2026-06-29 22:59:24 INFO  BaseTest - browser closed successfully
+2026-06-29 22:59:24 INFO  BaseTest - Launching Browser
+2026-06-29 22:59:25 INFO  BaseTest - Browser launched successfully
+2026-06-29 22:59:29 INFO  BaseTest - Typing standard_userinto element: By.id: user-name
+2026-06-29 22:59:29 INFO  BaseTest - Typing secret_sauceinto element: By.id: password
+2026-06-29 22:59:29 INFO  BaseTest - Clicking Element: By.cssSelector: input#login-button
+2026-06-29 22:59:29 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Backpack')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 22:59:30 INFO  BaseTest - Adding product to cart: Sauce Labs Backpack
+2026-06-29 22:59:30 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Bolt T-Shirt')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 22:59:30 INFO  BaseTest - Adding product to cart: Sauce Labs Bolt T-Shirt
+2026-06-29 22:59:30 INFO  BaseTest - ElementBy.cssSelector: span[data-test='shopping-cart-badge']present in DOM
+2026-06-29 22:59:30 INFO  BaseTest - Clicking Element: By.cssSelector: span[data-test='shopping-cart-badge']
+2026-06-29 22:59:31 INFO  BaseTest - Navigating to Cart page
+2026-06-29 22:59:31 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Backpack')]/ancestor::div[contains(@class,'cart_item_label')]//button
+2026-06-29 22:59:31 INFO  BaseTest - Removing product from cart: Sauce Labs Backpack
+2026-06-29 22:59:31 INFO  BaseTest - Items count in cart currently1
+2026-06-29 22:59:31 INFO  BaseTest - cart count after removal1
+2026-06-29 22:59:31 INFO  BaseTest - Clicking Element: By.cssSelector: button#react-burger-menu-btn
+2026-06-29 22:59:31 INFO  BaseTest - Clicking Element: By.id: logout_sidebar_link
+2026-06-29 22:59:32 INFO  BaseTest - Logged Out Successfully
+2026-06-29 22:59:32 INFO  BaseTest - browser closed successfully
+2026-06-29 22:59:32 INFO  BaseTest - Launching Browser
+2026-06-29 22:59:34 INFO  BaseTest - Browser launched successfully
+2026-06-29 22:59:35 INFO  BaseTest - Typing standard_userinto element: By.id: user-name
+2026-06-29 22:59:35 INFO  BaseTest - Typing secret_sauceinto element: By.id: password
+2026-06-29 22:59:35 INFO  BaseTest - Clicking Element: By.cssSelector: input#login-button
+2026-06-29 22:59:36 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Backpack')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 22:59:36 INFO  BaseTest - Adding product to cart: Sauce Labs Backpack
+2026-06-29 22:59:36 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Bolt T-Shirt')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 22:59:36 INFO  BaseTest - Adding product to cart: Sauce Labs Bolt T-Shirt
+2026-06-29 22:59:36 INFO  BaseTest - ElementBy.cssSelector: span[data-test='shopping-cart-badge']present in DOM
+2026-06-29 22:59:36 INFO  BaseTest - Clicking Element: By.cssSelector: span[data-test='shopping-cart-badge']
+2026-06-29 22:59:36 INFO  BaseTest - Navigating to Cart page
+2026-06-29 22:59:36 INFO  BaseTest - Cart items verified
+2026-06-29 22:59:36 INFO  BaseTest - Clicking Element: By.cssSelector: button#react-burger-menu-btn
+2026-06-29 22:59:36 INFO  BaseTest - Clicking Element: By.id: logout_sidebar_link
+2026-06-29 22:59:37 INFO  BaseTest - Logged Out Successfully
+2026-06-29 22:59:37 INFO  BaseTest - browser closed successfully
+2026-06-29 22:59:37 INFO  BaseTest - Launching Browser
+2026-06-29 22:59:39 INFO  BaseTest - Browser launched successfully
+2026-06-29 22:59:42 INFO  BaseTest - Typing standard_userinto element: By.id: user-name
+2026-06-29 22:59:42 INFO  BaseTest - Typing secret_sauceinto element: By.id: password
+2026-06-29 22:59:43 INFO  BaseTest - Clicking Element: By.cssSelector: input#login-button
+2026-06-29 22:59:43 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Backpack')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 22:59:43 INFO  BaseTest - Adding product to cart: Sauce Labs Backpack
+2026-06-29 22:59:43 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Bolt T-Shirt')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 22:59:43 INFO  BaseTest - Adding product to cart: Sauce Labs Bolt T-Shirt
+2026-06-29 22:59:43 INFO  BaseTest - ElementBy.cssSelector: span[data-test='shopping-cart-badge']present in DOM
+2026-06-29 22:59:43 INFO  BaseTest - Clicking Element: By.cssSelector: span[data-test='shopping-cart-badge']
+2026-06-29 22:59:43 INFO  BaseTest - Navigating to Cart page
+2026-06-29 22:59:43 INFO  BaseTest - Clicking Element: By.id: checkout
+2026-06-29 22:59:44 INFO  BaseTest - Navigating to Checkout User Info page
+2026-06-29 22:59:44 INFO  BaseTest - Typing saninto element: By.id: first-name
+2026-06-29 22:59:44 INFO  BaseTest - Typing devinto element: By.id: last-name
+2026-06-29 22:59:44 INFO  BaseTest - Typing 2933into element: By.id: postal-code
+2026-06-29 22:59:44 INFO  BaseTest - Filling user info: san dev, postal code: 2933
+2026-06-29 22:59:44 INFO  BaseTest - Clicking Element: By.id: continue
+2026-06-29 22:59:45 INFO  BaseTest - browser closed successfully
+2026-06-29 22:59:45 INFO  BaseTest - Launching Browser
+2026-06-29 22:59:46 INFO  BaseTest - Browser launched successfully
+2026-06-29 22:59:49 INFO  BaseTest - Typing standard_userinto element: By.id: user-name
+2026-06-29 22:59:49 INFO  BaseTest - Typing secret_sauceinto element: By.id: password
+2026-06-29 22:59:49 INFO  BaseTest - Clicking Element: By.cssSelector: input#login-button
+2026-06-29 22:59:50 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Backpack')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 22:59:50 INFO  BaseTest - Adding product to cart: Sauce Labs Backpack
+2026-06-29 22:59:50 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Bolt T-Shirt')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 22:59:50 INFO  BaseTest - Adding product to cart: Sauce Labs Bolt T-Shirt
+2026-06-29 22:59:50 INFO  BaseTest - ElementBy.cssSelector: span[data-test='shopping-cart-badge']present in DOM
+2026-06-29 22:59:50 INFO  BaseTest - Clicking Element: By.cssSelector: span[data-test='shopping-cart-badge']
+2026-06-29 22:59:50 INFO  BaseTest - Navigating to Cart page
+2026-06-29 22:59:50 INFO  BaseTest - Clicking Element: By.id: checkout
+2026-06-29 22:59:50 INFO  BaseTest - Navigating to Checkout User Info page
+2026-06-29 22:59:50 INFO  BaseTest - Typing saninto element: By.id: first-name
+2026-06-29 22:59:51 INFO  BaseTest - Typing devinto element: By.id: last-name
+2026-06-29 22:59:51 INFO  BaseTest - Typing 2933into element: By.id: postal-code
+2026-06-29 22:59:51 INFO  BaseTest - Filling user info: san dev, postal code: 2933
+2026-06-29 22:59:51 INFO  BaseTest - Clicking Element: By.id: continue
+2026-06-29 22:59:51 INFO  BaseTest - ElementBy.cssSelector: span[data-test='title']present in DOM
+2026-06-29 22:59:51 INFO  BaseTest - Navigating to checkout preview page
+2026-06-29 22:59:51 INFO  BaseTest - Verifying cart items
+2026-06-29 22:59:51 INFO  BaseTest - Verifying checkout totals
+2026-06-29 22:59:51 INFO  BaseTest - Clicking Element: By.cssSelector: button#react-burger-menu-btn
+2026-06-29 22:59:52 INFO  BaseTest - Clicking Element: By.id: logout_sidebar_link
+2026-06-29 23:00:13 INFO  BaseTest - browser closed successfully
+2026-06-29 23:00:13 INFO  BaseTest - Launching Browser
+2026-06-29 23:00:14 INFO  BaseTest - Browser launched successfully
+2026-06-29 23:00:17 INFO  BaseTest - Typing standard_userinto element: By.id: user-name
+2026-06-29 23:00:17 INFO  BaseTest - Typing secret_sauceinto element: By.id: password
+2026-06-29 23:00:17 INFO  BaseTest - Clicking Element: By.cssSelector: input#login-button
+2026-06-29 23:00:18 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Backpack')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 23:00:18 INFO  BaseTest - Adding product to cart: Sauce Labs Backpack
+2026-06-29 23:00:18 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Bolt T-Shirt')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 23:00:18 INFO  BaseTest - Adding product to cart: Sauce Labs Bolt T-Shirt
+2026-06-29 23:00:18 INFO  BaseTest - ElementBy.cssSelector: span[data-test='shopping-cart-badge']present in DOM
+2026-06-29 23:00:18 INFO  BaseTest - Clicking Element: By.cssSelector: span[data-test='shopping-cart-badge']
+2026-06-29 23:00:18 INFO  BaseTest - Navigating to Cart page
+2026-06-29 23:00:18 INFO  BaseTest - Clicking Element: By.id: checkout
+2026-06-29 23:00:18 INFO  BaseTest - Navigating to Checkout User Info page
+2026-06-29 23:00:18 INFO  BaseTest - Typing saninto element: By.id: first-name
+2026-06-29 23:00:18 INFO  BaseTest - Typing devinto element: By.id: last-name
+2026-06-29 23:00:19 INFO  BaseTest - Typing 2933into element: By.id: postal-code
+2026-06-29 23:00:19 INFO  BaseTest - Filling user info: san dev, postal code: 2933
+2026-06-29 23:00:19 INFO  BaseTest - Clicking Element: By.id: continue
+2026-06-29 23:00:19 INFO  BaseTest - ElementBy.cssSelector: span[data-test='title']present in DOM
+2026-06-29 23:00:19 INFO  BaseTest - Navigating to checkout preview page
+2026-06-29 23:00:19 INFO  BaseTest - Verifying cart items
+2026-06-29 23:00:19 INFO  BaseTest - Verifying checkout totals
+2026-06-29 23:00:19 INFO  BaseTest - Clicking Element: By.cssSelector: button#react-burger-menu-btn
+2026-06-29 23:00:19 INFO  BaseTest - Clicking Element: By.id: logout_sidebar_link
+2026-06-29 23:00:20 INFO  BaseTest - Logged Out Successfully
+2026-06-29 23:00:20 INFO  BaseTest - browser closed successfully
+2026-06-29 23:00:20 INFO  BaseTest - Launching Browser
+2026-06-29 23:00:22 INFO  BaseTest - Browser launched successfully
+2026-06-29 23:00:24 INFO  BaseTest - Typing standard_userinto element: By.id: user-name
+2026-06-29 23:00:25 INFO  BaseTest - Typing secret_sauceinto element: By.id: password
+2026-06-29 23:00:25 INFO  BaseTest - Clicking Element: By.cssSelector: input#login-button
+2026-06-29 23:00:25 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Backpack')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 23:00:25 INFO  BaseTest - Adding product to cart: Sauce Labs Backpack
+2026-06-29 23:00:25 INFO  BaseTest - ElementBy.cssSelector: span[data-test='shopping-cart-badge']present in DOM
+2026-06-29 23:00:25 INFO  BaseTest - Clicking Element: By.cssSelector: span[data-test='shopping-cart-badge']
+2026-06-29 23:00:25 INFO  BaseTest - Navigating to Cart page
+2026-06-29 23:00:25 INFO  BaseTest - Clicking Element: By.id: checkout
+2026-06-29 23:00:25 INFO  BaseTest - Navigating to Checkout User Info page
+2026-06-29 23:00:25 INFO  BaseTest - Typing saninto element: By.id: first-name
+2026-06-29 23:00:26 INFO  BaseTest - Typing devinto element: By.id: last-name
+2026-06-29 23:00:26 INFO  BaseTest - Typing 2933into element: By.id: postal-code
+2026-06-29 23:00:26 INFO  BaseTest - Filling user info: san dev, postal code: 2933
+2026-06-29 23:00:26 INFO  BaseTest - Clicking Element: By.id: continue
+2026-06-29 23:00:26 INFO  BaseTest - ElementBy.cssSelector: span[data-test='title']present in DOM
+2026-06-29 23:00:26 INFO  BaseTest - Navigating to checkout preview page
+2026-06-29 23:00:26 INFO  BaseTest - Clicking Element: By.id: finish
+2026-06-29 23:00:26 INFO  BaseTest - Placing order by clicking finish button
+2026-06-29 23:00:26 INFO  BaseTest - Navigating to Order Completion Page
+2026-06-29 23:00:26 INFO  BaseTest - Please wait Fetching your Order Completion Message
+2026-06-29 23:00:26 INFO  BaseTest - Your order has been dispatched, and will arrive just as fast as the pony can get there!
+2026-06-29 23:00:26 INFO  BaseTest - Please wait Fetching your Order Completion Message
+2026-06-29 23:00:26 INFO  BaseTest - Your order has been dispatched, and will arrive just as fast as the pony can get there!
+2026-06-29 23:00:26 INFO  BaseTest - Fetching Thankyou message
+2026-06-29 23:00:26 INFO  BaseTest - Fetching Thankyou message
+2026-06-29 23:00:26 INFO  BaseTest - Clicking Element: By.cssSelector: button#react-burger-menu-btn
+2026-06-29 23:00:26 INFO  BaseTest - Clicking Element: By.id: logout_sidebar_link
+2026-06-29 23:00:27 INFO  BaseTest - Logged Out Successfully
+2026-06-29 23:00:28 INFO  BaseTest - browser closed successfully
+2026-06-29 23:12:15 INFO  BaseTest - Launching Browser
+2026-06-29 23:12:20 INFO  BaseTest - Browser launched successfully
+2026-06-29 23:12:21 INFO  BaseTest - Typing standard_userinto element: By.id: user-name
+2026-06-29 23:12:21 INFO  BaseTest - Typing secret_sauceinto element: By.id: password
+2026-06-29 23:12:21 INFO  BaseTest - Clicking Element: By.cssSelector: input#login-button
+2026-06-29 23:12:21 INFO  BaseTest - Navigating to login page
+2026-06-29 23:12:21 INFO  BaseTest - Clicking Element: By.cssSelector: button#react-burger-menu-btn
+2026-06-29 23:12:21 INFO  BaseTest - Clicking Element: By.id: logout_sidebar_link
+2026-06-29 23:12:22 INFO  BaseTest - Logged Out Successfully
+2026-06-29 23:12:23 INFO  BaseTest - browser closed successfully
+2026-06-29 23:12:23 INFO  BaseTest - Launching Browser
+2026-06-29 23:12:24 INFO  BaseTest - Browser launched successfully
+2026-06-29 23:12:27 INFO  BaseTest - Typing standard_userinto element: By.id: user-name
+2026-06-29 23:12:27 INFO  BaseTest - Typing secret_sauceinto element: By.id: password
+2026-06-29 23:12:27 INFO  BaseTest - Clicking Element: By.cssSelector: input#login-button
+2026-06-29 23:12:28 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Backpack')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 23:12:28 INFO  BaseTest - Adding product to cart: Sauce Labs Backpack
+2026-06-29 23:12:28 INFO  BaseTest - Count of Items added in cart is: 1
+2026-06-29 23:12:28 INFO  BaseTest - Clicking Element: By.cssSelector: button#react-burger-menu-btn
+2026-06-29 23:12:28 INFO  BaseTest - Clicking Element: By.id: logout_sidebar_link
+2026-06-29 23:12:29 INFO  BaseTest - Logged Out Successfully
+2026-06-29 23:12:30 INFO  BaseTest - browser closed successfully
+2026-06-29 23:12:30 INFO  BaseTest - Launching Browser
+2026-06-29 23:12:31 INFO  BaseTest - Browser launched successfully
+2026-06-29 23:12:33 INFO  BaseTest - Typing standard_userinto element: By.id: user-name
+2026-06-29 23:12:34 INFO  BaseTest - Typing secret_sauceinto element: By.id: password
+2026-06-29 23:12:34 INFO  BaseTest - Clicking Element: By.cssSelector: input#login-button
+2026-06-29 23:12:34 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Backpack')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 23:12:34 INFO  BaseTest - Adding product to cart: Sauce Labs Backpack
+2026-06-29 23:12:34 INFO  BaseTest - Clicking Element: By.id: remove-sauce-labs-backpack
+2026-06-29 23:12:34 INFO  BaseTest - Product Sauce Labs Backpack has been removed from the cart
+2026-06-29 23:12:34 INFO  BaseTest - Items count in cart currently0
+2026-06-29 23:12:34 INFO  BaseTest - Clicking Element: By.cssSelector: button#react-burger-menu-btn
+2026-06-29 23:12:35 INFO  BaseTest - Clicking Element: By.id: logout_sidebar_link
+2026-06-29 23:12:35 INFO  BaseTest - Logged Out Successfully
+2026-06-29 23:12:36 INFO  BaseTest - browser closed successfully
+2026-06-29 23:12:36 INFO  BaseTest - Launching Browser
+2026-06-29 23:12:37 INFO  BaseTest - Browser launched successfully
+2026-06-29 23:12:38 INFO  BaseTest - Typing standard_userinto element: By.id: user-name
+2026-06-29 23:12:38 INFO  BaseTest - Typing secret_sauceinto element: By.id: password
+2026-06-29 23:12:38 INFO  BaseTest - Clicking Element: By.cssSelector: input#login-button
+2026-06-29 23:12:38 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Backpack')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 23:12:38 INFO  BaseTest - Adding product to cart: Sauce Labs Backpack
+2026-06-29 23:12:38 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Bolt T-Shirt')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 23:12:39 INFO  BaseTest - Adding product to cart: Sauce Labs Bolt T-Shirt
+2026-06-29 23:12:39 INFO  BaseTest - ElementBy.cssSelector: span[data-test='shopping-cart-badge']present in DOM
+2026-06-29 23:12:39 INFO  BaseTest - Clicking Element: By.cssSelector: span[data-test='shopping-cart-badge']
+2026-06-29 23:12:39 INFO  BaseTest - Navigating to Cart page
+2026-06-29 23:12:39 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Backpack')]/ancestor::div[contains(@class,'cart_item_label')]//button
+2026-06-29 23:12:39 INFO  BaseTest - Removing product from cart: Sauce Labs Backpack
+2026-06-29 23:12:39 INFO  BaseTest - Items count in cart currently1
+2026-06-29 23:12:39 INFO  BaseTest - cart count after removal1
+2026-06-29 23:12:39 INFO  BaseTest - Clicking Element: By.cssSelector: button#react-burger-menu-btn
+2026-06-29 23:12:39 INFO  BaseTest - Clicking Element: By.id: logout_sidebar_link
+2026-06-29 23:12:40 INFO  BaseTest - Logged Out Successfully
+2026-06-29 23:12:40 INFO  BaseTest - browser closed successfully
+2026-06-29 23:12:40 INFO  BaseTest - Launching Browser
+2026-06-29 23:12:41 INFO  BaseTest - Browser launched successfully
+2026-06-29 23:12:44 INFO  BaseTest - Typing standard_userinto element: By.id: user-name
+2026-06-29 23:12:44 INFO  BaseTest - Typing secret_sauceinto element: By.id: password
+2026-06-29 23:12:44 INFO  BaseTest - Clicking Element: By.cssSelector: input#login-button
+2026-06-29 23:12:45 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Backpack')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 23:12:45 INFO  BaseTest - Adding product to cart: Sauce Labs Backpack
+2026-06-29 23:12:45 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Bolt T-Shirt')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 23:12:45 INFO  BaseTest - Adding product to cart: Sauce Labs Bolt T-Shirt
+2026-06-29 23:12:45 INFO  BaseTest - ElementBy.cssSelector: span[data-test='shopping-cart-badge']present in DOM
+2026-06-29 23:12:45 INFO  BaseTest - Clicking Element: By.cssSelector: span[data-test='shopping-cart-badge']
+2026-06-29 23:12:45 INFO  BaseTest - Navigating to Cart page
+2026-06-29 23:12:45 INFO  BaseTest - Cart items verified
+2026-06-29 23:12:45 INFO  BaseTest - Clicking Element: By.cssSelector: button#react-burger-menu-btn
+2026-06-29 23:12:45 INFO  BaseTest - Clicking Element: By.id: logout_sidebar_link
+2026-06-29 23:12:46 INFO  BaseTest - Logged Out Successfully
+2026-06-29 23:12:46 INFO  BaseTest - browser closed successfully
+2026-06-29 23:12:46 INFO  BaseTest - Launching Browser
+2026-06-29 23:12:47 INFO  BaseTest - Browser launched successfully
+2026-06-29 23:12:48 INFO  BaseTest - Typing standard_userinto element: By.id: user-name
+2026-06-29 23:12:48 INFO  BaseTest - Typing secret_sauceinto element: By.id: password
+2026-06-29 23:12:48 INFO  BaseTest - Clicking Element: By.cssSelector: input#login-button
+2026-06-29 23:12:49 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Backpack')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 23:12:49 INFO  BaseTest - Adding product to cart: Sauce Labs Backpack
+2026-06-29 23:12:49 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Bolt T-Shirt')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 23:12:49 INFO  BaseTest - Adding product to cart: Sauce Labs Bolt T-Shirt
+2026-06-29 23:12:49 INFO  BaseTest - ElementBy.cssSelector: span[data-test='shopping-cart-badge']present in DOM
+2026-06-29 23:12:49 INFO  BaseTest - Clicking Element: By.cssSelector: span[data-test='shopping-cart-badge']
+2026-06-29 23:12:49 INFO  BaseTest - Navigating to Cart page
+2026-06-29 23:12:49 INFO  BaseTest - Clicking Element: By.id: checkout
+2026-06-29 23:12:49 INFO  BaseTest - Navigating to Checkout User Info page
+2026-06-29 23:12:50 INFO  BaseTest - Typing saninto element: By.id: first-name
+2026-06-29 23:12:50 INFO  BaseTest - Typing devinto element: By.id: last-name
+2026-06-29 23:12:50 INFO  BaseTest - Typing 2933into element: By.id: postal-code
+2026-06-29 23:12:50 INFO  BaseTest - Filling user info: san dev, postal code: 2933
+2026-06-29 23:12:50 INFO  BaseTest - Clicking Element: By.id: continue
+2026-06-29 23:12:50 INFO  BaseTest - browser closed successfully
+2026-06-29 23:12:50 INFO  BaseTest - Launching Browser
+2026-06-29 23:12:52 INFO  BaseTest - Browser launched successfully
+2026-06-29 23:12:53 INFO  BaseTest - Typing standard_userinto element: By.id: user-name
+2026-06-29 23:12:53 INFO  BaseTest - Typing secret_sauceinto element: By.id: password
+2026-06-29 23:12:53 INFO  BaseTest - Clicking Element: By.cssSelector: input#login-button
+2026-06-29 23:12:53 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Backpack')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 23:12:53 INFO  BaseTest - Adding product to cart: Sauce Labs Backpack
+2026-06-29 23:12:53 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Bolt T-Shirt')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 23:12:53 INFO  BaseTest - Adding product to cart: Sauce Labs Bolt T-Shirt
+2026-06-29 23:12:54 INFO  BaseTest - ElementBy.cssSelector: span[data-test='shopping-cart-badge']present in DOM
+2026-06-29 23:12:54 INFO  BaseTest - Clicking Element: By.cssSelector: span[data-test='shopping-cart-badge']
+2026-06-29 23:12:54 INFO  BaseTest - Navigating to Cart page
+2026-06-29 23:12:54 INFO  BaseTest - Clicking Element: By.id: checkout
+2026-06-29 23:12:54 INFO  BaseTest - Navigating to Checkout User Info page
+2026-06-29 23:12:54 INFO  BaseTest - Typing saninto element: By.id: first-name
+2026-06-29 23:12:54 INFO  BaseTest - Typing devinto element: By.id: last-name
+2026-06-29 23:12:54 INFO  BaseTest - Typing 2933into element: By.id: postal-code
+2026-06-29 23:12:54 INFO  BaseTest - Filling user info: san dev, postal code: 2933
+2026-06-29 23:12:54 INFO  BaseTest - Clicking Element: By.id: continue
+2026-06-29 23:12:54 INFO  BaseTest - ElementBy.cssSelector: span[data-test='title']present in DOM
+2026-06-29 23:12:54 INFO  BaseTest - Navigating to checkout preview page
+2026-06-29 23:12:55 INFO  BaseTest - Verifying cart items
+2026-06-29 23:12:55 INFO  BaseTest - Verifying checkout totals
+2026-06-29 23:12:55 INFO  BaseTest - Clicking Element: By.cssSelector: button#react-burger-menu-btn
+2026-06-29 23:12:55 INFO  BaseTest - Clicking Element: By.id: logout_sidebar_link
+2026-06-29 23:12:56 INFO  BaseTest - Logged Out Successfully
+2026-06-29 23:12:56 INFO  BaseTest - browser closed successfully
+2026-06-29 23:12:56 INFO  BaseTest - Launching Browser
+2026-06-29 23:12:57 INFO  BaseTest - Browser launched successfully
+2026-06-29 23:13:00 INFO  BaseTest - Typing standard_userinto element: By.id: user-name
+2026-06-29 23:13:00 INFO  BaseTest - Typing secret_sauceinto element: By.id: password
+2026-06-29 23:13:01 INFO  BaseTest - Clicking Element: By.cssSelector: input#login-button
+2026-06-29 23:13:01 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Backpack')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 23:13:01 INFO  BaseTest - Adding product to cart: Sauce Labs Backpack
+2026-06-29 23:13:01 INFO  BaseTest - ElementBy.cssSelector: span[data-test='shopping-cart-badge']present in DOM
+2026-06-29 23:13:01 INFO  BaseTest - Clicking Element: By.cssSelector: span[data-test='shopping-cart-badge']
+2026-06-29 23:13:01 INFO  BaseTest - Navigating to Cart page
+2026-06-29 23:13:01 INFO  BaseTest - Clicking Element: By.id: checkout
+2026-06-29 23:13:01 INFO  BaseTest - Navigating to Checkout User Info page
+2026-06-29 23:13:01 INFO  BaseTest - Typing saninto element: By.id: first-name
+2026-06-29 23:13:01 INFO  BaseTest - Typing devinto element: By.id: last-name
+2026-06-29 23:13:02 INFO  BaseTest - Typing 2933into element: By.id: postal-code
+2026-06-29 23:13:02 INFO  BaseTest - Filling user info: san dev, postal code: 2933
+2026-06-29 23:13:02 INFO  BaseTest - Clicking Element: By.id: continue
+2026-06-29 23:13:02 INFO  BaseTest - ElementBy.cssSelector: span[data-test='title']present in DOM
+2026-06-29 23:13:02 INFO  BaseTest - Navigating to checkout preview page
+2026-06-29 23:13:02 INFO  BaseTest - Clicking Element: By.id: finish
+2026-06-29 23:13:02 INFO  BaseTest - Placing order by clicking finish button
+2026-06-29 23:13:02 INFO  BaseTest - Navigating to Order Completion Page
+2026-06-29 23:13:02 INFO  BaseTest - Please wait Fetching your Order Completion Message
+2026-06-29 23:13:02 INFO  BaseTest - Your order has been dispatched, and will arrive just as fast as the pony can get there!
+2026-06-29 23:13:02 INFO  BaseTest - Please wait Fetching your Order Completion Message
+2026-06-29 23:13:02 INFO  BaseTest - Your order has been dispatched, and will arrive just as fast as the pony can get there!
+2026-06-29 23:13:02 INFO  BaseTest - Fetching Thankyou message
+2026-06-29 23:13:02 INFO  BaseTest - Fetching Thankyou message
+2026-06-29 23:13:02 INFO  BaseTest - Clicking Element: By.cssSelector: button#react-burger-menu-btn
+2026-06-29 23:13:02 INFO  BaseTest - Clicking Element: By.id: logout_sidebar_link
+2026-06-29 23:13:03 INFO  BaseTest - Logged Out Successfully
+2026-06-29 23:13:04 INFO  BaseTest - browser closed successfully
+2026-06-29 23:20:33 INFO  BaseTest - Launching Browser
+2026-06-29 23:20:36 INFO  BaseTest - Browser launched successfully
+2026-06-29 23:20:39 INFO  BaseTest - Typing standard_userinto element: By.id: user-name
+2026-06-29 23:20:39 INFO  BaseTest - Typing secret_sauceinto element: By.id: password
+2026-06-29 23:20:39 INFO  BaseTest - Clicking Element: By.cssSelector: input#login-button
+2026-06-29 23:20:39 INFO  BaseTest - Navigating to login page
+2026-06-29 23:20:39 INFO  BaseTest - Clicking Element: By.cssSelector: button#react-burger-menu-btn
+2026-06-29 23:20:39 INFO  BaseTest - Clicking Element: By.id: logout_sidebar_link
+2026-06-29 23:20:40 INFO  BaseTest - Logged Out Successfully
+2026-06-29 23:20:41 INFO  BaseTest - browser closed successfully
+2026-06-29 23:20:41 INFO  BaseTest - Launching Browser
+2026-06-29 23:20:43 INFO  BaseTest - Browser launched successfully
+2026-06-29 23:20:45 INFO  BaseTest - Typing standard_userinto element: By.id: user-name
+2026-06-29 23:20:45 INFO  BaseTest - Typing secret_sauceinto element: By.id: password
+2026-06-29 23:20:46 INFO  BaseTest - Clicking Element: By.cssSelector: input#login-button
+2026-06-29 23:20:46 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Backpack')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 23:20:46 INFO  BaseTest - Adding product to cart: Sauce Labs Backpack
+2026-06-29 23:20:46 INFO  BaseTest - Count of Items added in cart is: 1
+2026-06-29 23:20:46 INFO  BaseTest - Clicking Element: By.cssSelector: button#react-burger-menu-btn
+2026-06-29 23:20:46 INFO  BaseTest - Clicking Element: By.id: logout_sidebar_link
+2026-06-29 23:20:47 INFO  BaseTest - Logged Out Successfully
+2026-06-29 23:20:47 INFO  BaseTest - browser closed successfully
+2026-06-29 23:20:47 INFO  BaseTest - Launching Browser
+2026-06-29 23:20:49 INFO  BaseTest - Browser launched successfully
+2026-06-29 23:20:50 INFO  BaseTest - Typing standard_userinto element: By.id: user-name
+2026-06-29 23:20:50 INFO  BaseTest - Typing secret_sauceinto element: By.id: password
+2026-06-29 23:20:50 INFO  BaseTest - Clicking Element: By.cssSelector: input#login-button
+2026-06-29 23:20:50 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Backpack')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 23:20:50 INFO  BaseTest - Adding product to cart: Sauce Labs Backpack
+2026-06-29 23:20:50 INFO  BaseTest - Clicking Element: By.id: remove-sauce-labs-backpack
+2026-06-29 23:20:51 INFO  BaseTest - Product Sauce Labs Backpack has been removed from the cart
+2026-06-29 23:20:51 INFO  BaseTest - Items count in cart currently0
+2026-06-29 23:20:51 INFO  BaseTest - Clicking Element: By.cssSelector: button#react-burger-menu-btn
+2026-06-29 23:20:51 INFO  BaseTest - Clicking Element: By.id: logout_sidebar_link
+2026-06-29 23:20:52 INFO  BaseTest - Logged Out Successfully
+2026-06-29 23:20:52 INFO  BaseTest - browser closed successfully
+2026-06-29 23:20:52 INFO  BaseTest - Launching Browser
+2026-06-29 23:20:53 INFO  BaseTest - Browser launched successfully
+2026-06-29 23:20:54 INFO  BaseTest - Typing standard_userinto element: By.id: user-name
+2026-06-29 23:20:54 INFO  BaseTest - Typing secret_sauceinto element: By.id: password
+2026-06-29 23:20:55 INFO  BaseTest - Clicking Element: By.cssSelector: input#login-button
+2026-06-29 23:20:55 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Backpack')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 23:20:55 INFO  BaseTest - Adding product to cart: Sauce Labs Backpack
+2026-06-29 23:20:55 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Bolt T-Shirt')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 23:20:55 INFO  BaseTest - Adding product to cart: Sauce Labs Bolt T-Shirt
+2026-06-29 23:20:55 INFO  BaseTest - ElementBy.cssSelector: span[data-test='shopping-cart-badge']present in DOM
+2026-06-29 23:20:55 INFO  BaseTest - Clicking Element: By.cssSelector: span[data-test='shopping-cart-badge']
+2026-06-29 23:20:55 INFO  BaseTest - Navigating to Cart page
+2026-06-29 23:20:55 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Backpack')]/ancestor::div[contains(@class,'cart_item_label')]//button
+2026-06-29 23:20:55 INFO  BaseTest - Removing product from cart: Sauce Labs Backpack
+2026-06-29 23:20:55 INFO  BaseTest - Items count in cart currently1
+2026-06-29 23:20:56 INFO  BaseTest - cart count after removal1
+2026-06-29 23:20:56 INFO  BaseTest - Clicking Element: By.cssSelector: button#react-burger-menu-btn
+2026-06-29 23:20:56 INFO  BaseTest - Clicking Element: By.id: logout_sidebar_link
+2026-06-29 23:20:56 INFO  BaseTest - Logged Out Successfully
+2026-06-29 23:20:56 INFO  BaseTest - browser closed successfully
+2026-06-29 23:20:56 INFO  BaseTest - Launching Browser
+2026-06-29 23:20:58 INFO  BaseTest - Browser launched successfully
+2026-06-29 23:21:01 INFO  BaseTest - Typing standard_userinto element: By.id: user-name
+2026-06-29 23:21:01 INFO  BaseTest - Typing secret_sauceinto element: By.id: password
+2026-06-29 23:21:01 INFO  BaseTest - Clicking Element: By.cssSelector: input#login-button
+2026-06-29 23:21:02 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Backpack')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 23:21:02 INFO  BaseTest - Adding product to cart: Sauce Labs Backpack
+2026-06-29 23:21:02 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Bolt T-Shirt')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 23:21:02 INFO  BaseTest - Adding product to cart: Sauce Labs Bolt T-Shirt
+2026-06-29 23:21:02 INFO  BaseTest - ElementBy.cssSelector: span[data-test='shopping-cart-badge']present in DOM
+2026-06-29 23:21:02 INFO  BaseTest - Clicking Element: By.cssSelector: span[data-test='shopping-cart-badge']
+2026-06-29 23:21:02 INFO  BaseTest - Navigating to Cart page
+2026-06-29 23:21:02 INFO  BaseTest - Cart items verified
+2026-06-29 23:21:02 INFO  BaseTest - Clicking Element: By.cssSelector: button#react-burger-menu-btn
+2026-06-29 23:21:02 INFO  BaseTest - Clicking Element: By.id: logout_sidebar_link
+2026-06-29 23:21:03 INFO  BaseTest - Logged Out Successfully
+2026-06-29 23:21:03 INFO  BaseTest - browser closed successfully
+2026-06-29 23:21:03 INFO  BaseTest - Launching Browser
+2026-06-29 23:21:05 INFO  BaseTest - Browser launched successfully
+2026-06-29 23:21:06 INFO  BaseTest - Typing standard_userinto element: By.id: user-name
+2026-06-29 23:21:06 INFO  BaseTest - Typing secret_sauceinto element: By.id: password
+2026-06-29 23:21:06 INFO  BaseTest - Clicking Element: By.cssSelector: input#login-button
+2026-06-29 23:21:06 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Backpack')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 23:21:06 INFO  BaseTest - Adding product to cart: Sauce Labs Backpack
+2026-06-29 23:21:06 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Bolt T-Shirt')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 23:21:06 INFO  BaseTest - Adding product to cart: Sauce Labs Bolt T-Shirt
+2026-06-29 23:21:06 INFO  BaseTest - ElementBy.cssSelector: span[data-test='shopping-cart-badge']present in DOM
+2026-06-29 23:21:06 INFO  BaseTest - Clicking Element: By.cssSelector: span[data-test='shopping-cart-badge']
+2026-06-29 23:21:07 INFO  BaseTest - Navigating to Cart page
+2026-06-29 23:21:07 INFO  BaseTest - Clicking Element: By.id: checkout
+2026-06-29 23:21:07 INFO  BaseTest - Navigating to Checkout User Info page
+2026-06-29 23:21:07 INFO  BaseTest - Typing saninto element: By.id: first-name
+2026-06-29 23:21:07 INFO  BaseTest - Typing devinto element: By.id: last-name
+2026-06-29 23:21:07 INFO  BaseTest - Typing 2933into element: By.id: postal-code
+2026-06-29 23:21:07 INFO  BaseTest - Filling user info: san dev, postal code: 2933
+2026-06-29 23:21:07 INFO  BaseTest - Clicking Element: By.id: continue
+2026-06-29 23:21:08 INFO  BaseTest - browser closed successfully
+2026-06-29 23:21:08 INFO  BaseTest - Launching Browser
+2026-06-29 23:21:09 INFO  BaseTest - Browser launched successfully
+2026-06-29 23:21:12 INFO  BaseTest - Typing standard_userinto element: By.id: user-name
+2026-06-29 23:21:12 INFO  BaseTest - Typing secret_sauceinto element: By.id: password
+2026-06-29 23:21:12 INFO  BaseTest - Clicking Element: By.cssSelector: input#login-button
+2026-06-29 23:21:12 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Backpack')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 23:21:12 INFO  BaseTest - Adding product to cart: Sauce Labs Backpack
+2026-06-29 23:21:13 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Bolt T-Shirt')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 23:21:13 INFO  BaseTest - Adding product to cart: Sauce Labs Bolt T-Shirt
+2026-06-29 23:21:13 INFO  BaseTest - ElementBy.cssSelector: span[data-test='shopping-cart-badge']present in DOM
+2026-06-29 23:21:13 INFO  BaseTest - Clicking Element: By.cssSelector: span[data-test='shopping-cart-badge']
+2026-06-29 23:21:13 INFO  BaseTest - Navigating to Cart page
+2026-06-29 23:21:13 INFO  BaseTest - Clicking Element: By.id: checkout
+2026-06-29 23:21:13 INFO  BaseTest - Navigating to Checkout User Info page
+2026-06-29 23:21:13 INFO  BaseTest - Typing saninto element: By.id: first-name
+2026-06-29 23:21:13 INFO  BaseTest - Typing devinto element: By.id: last-name
+2026-06-29 23:21:13 INFO  BaseTest - Typing 2933into element: By.id: postal-code
+2026-06-29 23:21:13 INFO  BaseTest - Filling user info: san dev, postal code: 2933
+2026-06-29 23:21:13 INFO  BaseTest - Clicking Element: By.id: continue
+2026-06-29 23:21:14 INFO  BaseTest - ElementBy.cssSelector: span[data-test='title']present in DOM
+2026-06-29 23:21:14 INFO  BaseTest - Navigating to checkout preview page
+2026-06-29 23:21:14 INFO  BaseTest - Verifying cart items
+2026-06-29 23:21:14 INFO  BaseTest - Verifying checkout totals
+2026-06-29 23:21:14 INFO  BaseTest - Clicking Element: By.cssSelector: button#react-burger-menu-btn
+2026-06-29 23:21:14 INFO  BaseTest - Clicking Element: By.id: logout_sidebar_link
+2026-06-29 23:21:15 INFO  BaseTest - Logged Out Successfully
+2026-06-29 23:21:15 INFO  BaseTest - browser closed successfully
+2026-06-29 23:21:15 INFO  BaseTest - Launching Browser
+2026-06-29 23:21:16 INFO  BaseTest - Browser launched successfully
+2026-06-29 23:21:17 INFO  BaseTest - Typing standard_userinto element: By.id: user-name
+2026-06-29 23:21:17 INFO  BaseTest - Typing secret_sauceinto element: By.id: password
+2026-06-29 23:21:17 INFO  BaseTest - Clicking Element: By.cssSelector: input#login-button
+2026-06-29 23:21:18 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Backpack')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 23:21:18 INFO  BaseTest - Adding product to cart: Sauce Labs Backpack
+2026-06-29 23:21:18 INFO  BaseTest - ElementBy.cssSelector: span[data-test='shopping-cart-badge']present in DOM
+2026-06-29 23:21:18 INFO  BaseTest - Clicking Element: By.cssSelector: span[data-test='shopping-cart-badge']
+2026-06-29 23:21:18 INFO  BaseTest - Navigating to Cart page
+2026-06-29 23:21:18 INFO  BaseTest - Clicking Element: By.id: checkout
+2026-06-29 23:21:18 INFO  BaseTest - Navigating to Checkout User Info page
+2026-06-29 23:21:18 INFO  BaseTest - Typing saninto element: By.id: first-name
+2026-06-29 23:21:19 INFO  BaseTest - Typing devinto element: By.id: last-name
+2026-06-29 23:21:19 INFO  BaseTest - Typing 2933into element: By.id: postal-code
+2026-06-29 23:21:19 INFO  BaseTest - Filling user info: san dev, postal code: 2933
+2026-06-29 23:21:19 INFO  BaseTest - Clicking Element: By.id: continue
+2026-06-29 23:21:19 INFO  BaseTest - ElementBy.cssSelector: span[data-test='title']present in DOM
+2026-06-29 23:21:19 INFO  BaseTest - Navigating to checkout preview page
+2026-06-29 23:21:19 INFO  BaseTest - Clicking Element: By.id: finish
+2026-06-29 23:21:19 INFO  BaseTest - Placing order by clicking finish button
+2026-06-29 23:21:19 INFO  BaseTest - Navigating to Order Completion Page
+2026-06-29 23:21:19 INFO  BaseTest - Please wait Fetching your Order Completion Message
+2026-06-29 23:21:19 INFO  BaseTest - Your order has been dispatched, and will arrive just as fast as the pony can get there!
+2026-06-29 23:21:19 INFO  BaseTest - Please wait Fetching your Order Completion Message
+2026-06-29 23:21:19 INFO  BaseTest - Your order has been dispatched, and will arrive just as fast as the pony can get there!
+2026-06-29 23:21:19 INFO  BaseTest - Fetching Thankyou message
+2026-06-29 23:21:19 INFO  BaseTest - Fetching Thankyou message
+2026-06-29 23:21:19 INFO  BaseTest - Clicking Element: By.cssSelector: button#react-burger-menu-btn
+2026-06-29 23:21:19 INFO  BaseTest - Clicking Element: By.id: logout_sidebar_link
+2026-06-29 23:21:20 INFO  BaseTest - Logged Out Successfully
+2026-06-29 23:21:20 INFO  BaseTest - browser closed successfully
+2026-06-29 23:27:54 INFO  BaseTest - Launching Browser
+2026-06-29 23:27:59 INFO  BaseTest - Browser launched successfully
+2026-06-29 23:28:01 INFO  BaseTest - Typing standard_userinto element: By.id: user-name
+2026-06-29 23:28:01 INFO  BaseTest - Typing secret_sauceinto element: By.id: password
+2026-06-29 23:28:01 INFO  BaseTest - Clicking Element: By.cssSelector: input#login-button
+2026-06-29 23:28:01 INFO  BaseTest - Navigating to login page
+2026-06-29 23:28:01 INFO  BaseTest - Clicking Element: By.cssSelector: button#react-burger-menu-btn
+2026-06-29 23:28:02 INFO  BaseTest - Clicking Element: By.id: logout_sidebar_link
+2026-06-29 23:28:02 INFO  BaseTest - Logged Out Successfully
+2026-06-29 23:28:03 INFO  BaseTest - browser closed successfully
+2026-06-29 23:28:03 INFO  BaseTest - Launching Browser
+2026-06-29 23:28:04 INFO  BaseTest - Browser launched successfully
+2026-06-29 23:28:09 INFO  BaseTest - Typing standard_userinto element: By.id: user-name
+2026-06-29 23:28:10 INFO  BaseTest - Typing secret_sauceinto element: By.id: password
+2026-06-29 23:28:10 INFO  BaseTest - Clicking Element: By.cssSelector: input#login-button
+2026-06-29 23:28:10 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Backpack')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 23:28:10 INFO  BaseTest - Adding product to cart: Sauce Labs Backpack
+2026-06-29 23:28:10 INFO  BaseTest - Count of Items added in cart is: 1
+2026-06-29 23:28:10 INFO  BaseTest - Clicking Element: By.cssSelector: button#react-burger-menu-btn
+2026-06-29 23:28:10 INFO  BaseTest - Clicking Element: By.id: logout_sidebar_link
+2026-06-29 23:28:11 INFO  BaseTest - Logged Out Successfully
+2026-06-29 23:28:13 INFO  BaseTest - browser closed successfully
+2026-06-29 23:28:13 INFO  BaseTest - Launching Browser
+2026-06-29 23:28:15 INFO  BaseTest - Browser launched successfully
+2026-06-29 23:28:17 INFO  BaseTest - Typing standard_userinto element: By.id: user-name
+2026-06-29 23:28:17 INFO  BaseTest - Typing secret_sauceinto element: By.id: password
+2026-06-29 23:28:17 INFO  BaseTest - Clicking Element: By.cssSelector: input#login-button
+2026-06-29 23:28:17 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Backpack')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 23:28:17 INFO  BaseTest - Adding product to cart: Sauce Labs Backpack
+2026-06-29 23:28:17 INFO  BaseTest - Clicking Element: By.id: remove-sauce-labs-backpack
+2026-06-29 23:28:18 INFO  BaseTest - Product Sauce Labs Backpack has been removed from the cart
+2026-06-29 23:28:18 INFO  BaseTest - Items count in cart currently0
+2026-06-29 23:28:18 INFO  BaseTest - Clicking Element: By.cssSelector: button#react-burger-menu-btn
+2026-06-29 23:28:18 INFO  BaseTest - Clicking Element: By.id: logout_sidebar_link
+2026-06-29 23:28:19 INFO  BaseTest - Logged Out Successfully
+2026-06-29 23:28:19 INFO  BaseTest - browser closed successfully
+2026-06-29 23:28:19 INFO  BaseTest - Launching Browser
+2026-06-29 23:28:20 INFO  BaseTest - Browser launched successfully
+2026-06-29 23:28:22 INFO  BaseTest - Typing standard_userinto element: By.id: user-name
+2026-06-29 23:28:22 INFO  BaseTest - Typing secret_sauceinto element: By.id: password
+2026-06-29 23:28:22 INFO  BaseTest - Clicking Element: By.cssSelector: input#login-button
+2026-06-29 23:28:23 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Backpack')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 23:28:23 INFO  BaseTest - Adding product to cart: Sauce Labs Backpack
+2026-06-29 23:28:23 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Bolt T-Shirt')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 23:28:23 INFO  BaseTest - Adding product to cart: Sauce Labs Bolt T-Shirt
+2026-06-29 23:28:23 INFO  BaseTest - ElementBy.cssSelector: span[data-test='shopping-cart-badge']present in DOM
+2026-06-29 23:28:23 INFO  BaseTest - Clicking Element: By.cssSelector: span[data-test='shopping-cart-badge']
+2026-06-29 23:28:23 INFO  BaseTest - Navigating to Cart page
+2026-06-29 23:28:23 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Backpack')]/ancestor::div[contains(@class,'cart_item_label')]//button
+2026-06-29 23:28:23 INFO  BaseTest - Removing product from cart: Sauce Labs Backpack
+2026-06-29 23:28:23 INFO  BaseTest - Items count in cart currently1
+2026-06-29 23:28:23 INFO  BaseTest - cart count after removal1
+2026-06-29 23:28:23 INFO  BaseTest - Clicking Element: By.cssSelector: button#react-burger-menu-btn
+2026-06-29 23:28:23 INFO  BaseTest - Clicking Element: By.id: logout_sidebar_link
+2026-06-29 23:28:24 INFO  BaseTest - Logged Out Successfully
+2026-06-29 23:28:24 INFO  BaseTest - browser closed successfully
+2026-06-29 23:28:24 INFO  BaseTest - Launching Browser
+2026-06-29 23:28:25 INFO  BaseTest - Browser launched successfully
+2026-06-29 23:28:27 INFO  BaseTest - Typing standard_userinto element: By.id: user-name
+2026-06-29 23:28:27 INFO  BaseTest - Typing secret_sauceinto element: By.id: password
+2026-06-29 23:28:27 INFO  BaseTest - Clicking Element: By.cssSelector: input#login-button
+2026-06-29 23:28:27 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Backpack')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 23:28:27 INFO  BaseTest - Adding product to cart: Sauce Labs Backpack
+2026-06-29 23:28:27 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Bolt T-Shirt')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 23:28:27 INFO  BaseTest - Adding product to cart: Sauce Labs Bolt T-Shirt
+2026-06-29 23:28:28 INFO  BaseTest - ElementBy.cssSelector: span[data-test='shopping-cart-badge']present in DOM
+2026-06-29 23:28:28 INFO  BaseTest - Clicking Element: By.cssSelector: span[data-test='shopping-cart-badge']
+2026-06-29 23:28:28 INFO  BaseTest - Navigating to Cart page
+2026-06-29 23:28:28 INFO  BaseTest - Cart items verified
+2026-06-29 23:28:28 INFO  BaseTest - Clicking Element: By.cssSelector: button#react-burger-menu-btn
+2026-06-29 23:28:28 INFO  BaseTest - Clicking Element: By.id: logout_sidebar_link
+2026-06-29 23:28:29 INFO  BaseTest - Logged Out Successfully
+2026-06-29 23:28:29 INFO  BaseTest - browser closed successfully
+2026-06-29 23:28:29 INFO  BaseTest - Launching Browser
+2026-06-29 23:28:30 INFO  BaseTest - Browser launched successfully
+2026-06-29 23:28:31 INFO  BaseTest - Typing standard_userinto element: By.id: user-name
+2026-06-29 23:28:32 INFO  BaseTest - Typing secret_sauceinto element: By.id: password
+2026-06-29 23:28:32 INFO  BaseTest - Clicking Element: By.cssSelector: input#login-button
+2026-06-29 23:28:32 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Backpack')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 23:28:32 INFO  BaseTest - Adding product to cart: Sauce Labs Backpack
+2026-06-29 23:28:32 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Bolt T-Shirt')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 23:28:32 INFO  BaseTest - Adding product to cart: Sauce Labs Bolt T-Shirt
+2026-06-29 23:28:32 INFO  BaseTest - ElementBy.cssSelector: span[data-test='shopping-cart-badge']present in DOM
+2026-06-29 23:28:32 INFO  BaseTest - Clicking Element: By.cssSelector: span[data-test='shopping-cart-badge']
+2026-06-29 23:28:32 INFO  BaseTest - Navigating to Cart page
+2026-06-29 23:28:32 INFO  BaseTest - Clicking Element: By.id: checkout
+2026-06-29 23:28:33 INFO  BaseTest - Navigating to Checkout User Info page
+2026-06-29 23:28:33 INFO  BaseTest - Typing saninto element: By.id: first-name
+2026-06-29 23:28:33 INFO  BaseTest - Typing devinto element: By.id: last-name
+2026-06-29 23:28:33 INFO  BaseTest - Typing 2933into element: By.id: postal-code
+2026-06-29 23:28:33 INFO  BaseTest - Filling user info: san dev, postal code: 2933
+2026-06-29 23:28:33 INFO  BaseTest - Clicking Element: By.id: continue
+2026-06-29 23:28:34 INFO  BaseTest - browser closed successfully
+2026-06-29 23:28:34 INFO  BaseTest - Launching Browser
+2026-06-29 23:28:35 INFO  BaseTest - Browser launched successfully
+2026-06-29 23:28:37 INFO  BaseTest - Typing standard_userinto element: By.id: user-name
+2026-06-29 23:28:37 INFO  BaseTest - Typing secret_sauceinto element: By.id: password
+2026-06-29 23:28:37 INFO  BaseTest - Clicking Element: By.cssSelector: input#login-button
+2026-06-29 23:28:38 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Backpack')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 23:28:38 INFO  BaseTest - Adding product to cart: Sauce Labs Backpack
+2026-06-29 23:28:38 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Bolt T-Shirt')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 23:28:38 INFO  BaseTest - Adding product to cart: Sauce Labs Bolt T-Shirt
+2026-06-29 23:28:38 INFO  BaseTest - ElementBy.cssSelector: span[data-test='shopping-cart-badge']present in DOM
+2026-06-29 23:28:38 INFO  BaseTest - Clicking Element: By.cssSelector: span[data-test='shopping-cart-badge']
+2026-06-29 23:28:38 INFO  BaseTest - Navigating to Cart page
+2026-06-29 23:28:38 INFO  BaseTest - Clicking Element: By.id: checkout
+2026-06-29 23:28:38 INFO  BaseTest - Navigating to Checkout User Info page
+2026-06-29 23:28:38 INFO  BaseTest - Typing saninto element: By.id: first-name
+2026-06-29 23:28:39 INFO  BaseTest - Typing devinto element: By.id: last-name
+2026-06-29 23:28:39 INFO  BaseTest - Typing 2933into element: By.id: postal-code
+2026-06-29 23:28:39 INFO  BaseTest - Filling user info: san dev, postal code: 2933
+2026-06-29 23:28:39 INFO  BaseTest - Clicking Element: By.id: continue
+2026-06-29 23:28:39 INFO  BaseTest - ElementBy.cssSelector: span[data-test='title']present in DOM
+2026-06-29 23:28:39 INFO  BaseTest - Navigating to checkout preview page
+2026-06-29 23:28:39 INFO  BaseTest - Verifying cart items
+2026-06-29 23:28:39 INFO  BaseTest - Verifying checkout totals
+2026-06-29 23:28:40 INFO  BaseTest - Clicking Element: By.cssSelector: button#react-burger-menu-btn
+2026-06-29 23:28:40 INFO  BaseTest - Clicking Element: By.id: logout_sidebar_link
+2026-06-29 23:28:40 INFO  BaseTest - Logged Out Successfully
+2026-06-29 23:28:41 INFO  BaseTest - browser closed successfully
+2026-06-29 23:28:41 INFO  BaseTest - Launching Browser
+2026-06-29 23:28:42 INFO  BaseTest - Browser launched successfully
+2026-06-29 23:28:43 INFO  BaseTest - Typing standard_userinto element: By.id: user-name
+2026-06-29 23:28:44 INFO  BaseTest - Typing secret_sauceinto element: By.id: password
+2026-06-29 23:28:44 INFO  BaseTest - Clicking Element: By.cssSelector: input#login-button
+2026-06-29 23:28:44 INFO  BaseTest - Clicking Element: By.xpath: //div[contains(@class,'inventory_item_name') and contains(text(),'Sauce Labs Backpack')]/ancestor::div[contains(@class,'inventory_item')]//button
+2026-06-29 23:28:44 INFO  BaseTest - Adding product to cart: Sauce Labs Backpack
+2026-06-29 23:28:44 INFO  BaseTest - ElementBy.cssSelector: span[data-test='shopping-cart-badge']present in DOM
+2026-06-29 23:28:44 INFO  BaseTest - Clicking Element: By.cssSelector: span[data-test='shopping-cart-badge']
+2026-06-29 23:28:44 INFO  BaseTest - Navigating to Cart page
+2026-06-29 23:28:44 INFO  BaseTest - Clicking Element: By.id: checkout
+2026-06-29 23:28:44 INFO  BaseTest - Navigating to Checkout User Info page
+2026-06-29 23:28:44 INFO  BaseTest - Typing saninto element: By.id: first-name
+2026-06-29 23:28:45 INFO  BaseTest - Typing devinto element: By.id: last-name
+2026-06-29 23:28:45 INFO  BaseTest - Typing 2933into element: By.id: postal-code
+2026-06-29 23:28:45 INFO  BaseTest - Filling user info: san dev, postal code: 2933
+2026-06-29 23:28:45 INFO  BaseTest - Clicking Element: By.id: continue
+2026-06-29 23:28:45 INFO  BaseTest - ElementBy.cssSelector: span[data-test='title']present in DOM
+2026-06-29 23:28:45 INFO  BaseTest - Navigating to checkout preview page
+2026-06-29 23:28:45 INFO  BaseTest - Clicking Element: By.id: finish
+2026-06-29 23:28:45 INFO  BaseTest - Placing order by clicking finish button
+2026-06-29 23:28:45 INFO  BaseTest - Navigating to Order Completion Page
+2026-06-29 23:28:45 INFO  BaseTest - Please wait Fetching your Order Completion Message
+2026-06-29 23:28:45 INFO  BaseTest - Your order has been dispatched, and will arrive just as fast as the pony can get there!
+2026-06-29 23:28:45 INFO  BaseTest - Please wait Fetching your Order Completion Message
+2026-06-29 23:28:45 INFO  BaseTest - Your order has been dispatched, and will arrive just as fast as the pony can get there!
+2026-06-29 23:28:45 INFO  BaseTest - Fetching Thankyou message
+2026-06-29 23:28:45 INFO  BaseTest - Fetching Thankyou message
+2026-06-29 23:28:45 INFO  BaseTest - Clicking Element: By.cssSelector: button#react-burger-menu-btn
+2026-06-29 23:28:45 INFO  BaseTest - Clicking Element: By.id: logout_sidebar_link
+2026-06-29 23:28:46 INFO  BaseTest - Logged Out Successfully
+2026-06-29 23:28:47 INFO  BaseTest - browser closed successfully
