@@ -11,12 +11,9 @@ pipeline {
         SCREENSHOT_DIR = 'reports/screenshots'
     }
 
+
     stages {
-        stage('Checkout') {
-            steps {
-                checkout scm
-            }
-        }
+
 
         stage('Clean') {
             steps {
