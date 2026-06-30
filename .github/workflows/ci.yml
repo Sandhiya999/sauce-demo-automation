@@ -32,8 +32,9 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-maven-
 
-      - name: Run single test
-        run: mvn -Dtest=${{ github.event.input.test_name || 'SauceDemoE2ETest' }}
+      - name: Run E2E test
+        run: mvn test -Dtest=${{ github.event.inputs.test_name || 'SauceDemoE2ETest' }}
+
       - name: Upload test reports
         if: always()
         uses: actions/upload-artifact@v4
