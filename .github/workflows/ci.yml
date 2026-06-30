@@ -1,9 +1,14 @@
-name: Run Single Selenium Test
+name: Run SauceDemo E2E Selenium Test
 
 on:
   push:
     branches: [ "main" ]   # or the branch you want
   workflow_dispatch:       # allows manual trigger
+    inputs:
+      test_name:
+        description: "Test class or method"
+        required: false
+        default: "SauceDemoE2ETest"
 
 jobs:
   test:
@@ -17,7 +22,7 @@ jobs:
         uses: actions/setup-java@v3
         with:
           distribution: temurin
-          java-version: '17'
+          java-version: '11'
 
       - name: Cache Maven dependencies
         uses: actions/cache@v3
@@ -28,4 +33,12 @@ jobs:
             ${{ runner.os }}-maven-
 
       - name: Run single test
-        run: mvn -Dtest=LoginTest#login test
+        run: mvn -Dtest=${{ github.event.input.test_name || 'SauceDemoE2ETest' }}
+      - name: Upload test reports
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: test-reports
+          path: |
+            target/surefire-reports/**
+            reports/**
