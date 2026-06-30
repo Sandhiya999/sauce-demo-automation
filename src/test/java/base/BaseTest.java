@@ -54,6 +54,8 @@ import org.testng.annotations.Parameters;
     public void launchBrowser(String browser)
     {
         log.info("Launching Browser");
+        boolean isCI = System.getenv("CI") != null;
+        log.info("isCI = " + isCI);
         boolean headless = Boolean.parseBoolean(ConfigReader.get("headless"));
         WebDriver driverInstance;
         if(browser.equalsIgnoreCase("chrome")) {
@@ -96,6 +98,8 @@ import org.testng.annotations.Parameters;
     {
         options.addArguments("--headless=new");
         options.addArguments("--window-size=1920,1080");
+        options.addArguments("--no-sandbox");
+        options.addArguments("--disable-dev-shm-usage");
     }
 
     @AfterMethod(alwaysRun = true)
